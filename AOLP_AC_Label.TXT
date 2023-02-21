@@ -1,0 +1,1248 @@
+/content/AOLP/Subset_AC/1.jpg 170,194,243,213,1
+/content/AOLP/Subset_AC/2.jpg 230,137,297,158,1
+/content/AOLP/Subset_AC/3.jpg 164,163,237,186,1
+/content/AOLP/Subset_AC/4.jpg 131,190,205,211,1
+/content/AOLP/Subset_AC/5.jpg 199,124,270,145,1
+/content/AOLP/Subset_AC/6.jpg 200,182,270,200,1
+/content/AOLP/Subset_AC/7.jpg 221,130,299,149,1
+/content/AOLP/Subset_AC/8.jpg 192,190,273,213,1
+/content/AOLP/Subset_AC/9.jpg 108,110,182,128,1
+/content/AOLP/Subset_AC/10.jpg 115,193,192,216,1
+/content/AOLP/Subset_AC/11.jpg 130,149,204,173,1
+/content/AOLP/Subset_AC/12.jpg 59,157,131,175,1
+/content/AOLP/Subset_AC/13.jpg 158,173,241,195,1
+/content/AOLP/Subset_AC/14.jpg 24,148,101,174,1
+/content/AOLP/Subset_AC/15.jpg 268,195,348,218,1
+/content/AOLP/Subset_AC/16.jpg 92,151,174,178,1
+/content/AOLP/Subset_AC/17.jpg 230,174,312,189,1
+/content/AOLP/Subset_AC/18.jpg 142,161,213,182,1
+/content/AOLP/Subset_AC/19.jpg 217,159,294,176,1
+/content/AOLP/Subset_AC/20.jpg 233,190,301,217,1
+/content/AOLP/Subset_AC/21.jpg 80,133,151,154,1
+/content/AOLP/Subset_AC/22.jpg 132,178,206,195,1
+/content/AOLP/Subset_AC/23.jpg 167,161,240,188,1
+/content/AOLP/Subset_AC/24.jpg 39,176,107,199,1
+/content/AOLP/Subset_AC/25.jpg 223,196,295,220,1
+/content/AOLP/Subset_AC/26.jpg 82,197,161,218,1
+/content/AOLP/Subset_AC/27.jpg 109,197,186,219,1
+/content/AOLP/Subset_AC/28.jpg 223,167,295,185,1
+/content/AOLP/Subset_AC/29.jpg 178,182,254,204,1
+/content/AOLP/Subset_AC/30.jpg 111,173,181,195,1
+/content/AOLP/Subset_AC/31.jpg 21,178,95,197,1
+/content/AOLP/Subset_AC/32.jpg 163,140,236,162,1
+/content/AOLP/Subset_AC/33.jpg 123,154,192,173,1
+/content/AOLP/Subset_AC/34.jpg 58,134,132,155,1
+/content/AOLP/Subset_AC/35.jpg 202,192,273,211,1
+/content/AOLP/Subset_AC/36.jpg 107,110,170,131,1
+/content/AOLP/Subset_AC/37.jpg 145,135,214,151,1
+/content/AOLP/Subset_AC/38.jpg 184,140,256,161,1
+/content/AOLP/Subset_AC/39.jpg 263,176,341,197,1
+/content/AOLP/Subset_AC/40.jpg 43,160,112,173,1
+/content/AOLP/Subset_AC/41.jpg 199,122,274,144,1
+/content/AOLP/Subset_AC/42.jpg 211,192,286,211,1
+/content/AOLP/Subset_AC/43.jpg 229,187,303,209,1
+/content/AOLP/Subset_AC/44.jpg 31,140,105,158,1
+/content/AOLP/Subset_AC/45.jpg 135,167,207,187,1
+/content/AOLP/Subset_AC/46.jpg 239,147,311,170,1
+/content/AOLP/Subset_AC/47.jpg 3,188,79,211,1
+/content/AOLP/Subset_AC/48.jpg 277,171,349,193,1
+/content/AOLP/Subset_AC/49.jpg 77,181,154,203,1
+/content/AOLP/Subset_AC/50.jpg 221,182,292,198,1
+/content/AOLP/Subset_AC/51.jpg 236,181,310,204,1
+/content/AOLP/Subset_AC/52.jpg 196,186,272,208,1
+/content/AOLP/Subset_AC/53.jpg 180,180,247,201,1
+/content/AOLP/Subset_AC/54.jpg 103,174,172,192,1
+/content/AOLP/Subset_AC/55.jpg 211,165,283,185,1
+/content/AOLP/Subset_AC/56.jpg 124,196,194,219,1
+/content/AOLP/Subset_AC/57.jpg 96,190,170,211,1
+/content/AOLP/Subset_AC/58.jpg 143,175,219,198,1
+/content/AOLP/Subset_AC/59.jpg 73,196,142,213,1
+/content/AOLP/Subset_AC/60.jpg 201,161,274,184,1
+/content/AOLP/Subset_AC/61.jpg 125,187,201,205,1
+/content/AOLP/Subset_AC/62.jpg 116,179,188,199,1
+/content/AOLP/Subset_AC/63.jpg 175,174,250,197,1
+/content/AOLP/Subset_AC/64.jpg 191,154,264,172,1
+/content/AOLP/Subset_AC/65.jpg 264,181,339,203,1
+/content/AOLP/Subset_AC/66.jpg 94,163,171,187,1
+/content/AOLP/Subset_AC/67.jpg 14,163,84,182,1
+/content/AOLP/Subset_AC/68.jpg 235,150,308,172,1
+/content/AOLP/Subset_AC/69.jpg 29,161,101,182,1
+/content/AOLP/Subset_AC/70.jpg 64,165,140,184,1
+/content/AOLP/Subset_AC/71.jpg 254,155,325,173,1
+/content/AOLP/Subset_AC/72.jpg 42,168,114,191,1
+/content/AOLP/Subset_AC/73.jpg 38,186,117,206,1
+/content/AOLP/Subset_AC/74.jpg 186,130,259,148,1
+/content/AOLP/Subset_AC/75.jpg 234,195,307,215,1
+/content/AOLP/Subset_AC/76.jpg 75,159,148,181,1
+/content/AOLP/Subset_AC/77.jpg 20,172,98,195,1
+/content/AOLP/Subset_AC/78.jpg 211,198,280,219,1
+/content/AOLP/Subset_AC/79.jpg 5,176,80,194,1
+/content/AOLP/Subset_AC/80.jpg 111,119,180,137,1
+/content/AOLP/Subset_AC/81.jpg 112,186,184,208,1
+/content/AOLP/Subset_AC/82.jpg 88,133,159,159,1
+/content/AOLP/Subset_AC/83.jpg 273,172,347,198,1
+/content/AOLP/Subset_AC/84.jpg 161,184,235,207,1
+/content/AOLP/Subset_AC/85.jpg 233,155,303,174,1
+/content/AOLP/Subset_AC/86.jpg 186,157,256,178,1
+/content/AOLP/Subset_AC/87.jpg 215,176,294,196,1
+/content/AOLP/Subset_AC/88.jpg 159,159,236,183,1
+/content/AOLP/Subset_AC/89.jpg 96,102,171,121,1
+/content/AOLP/Subset_AC/90.jpg 91,156,162,179,1
+/content/AOLP/Subset_AC/91.jpg 48,141,117,164,1
+/content/AOLP/Subset_AC/92.jpg 30,114,102,136,1
+/content/AOLP/Subset_AC/93.jpg 119,142,195,165,1
+/content/AOLP/Subset_AC/94.jpg 43,178,120,201,1
+/content/AOLP/Subset_AC/95.jpg 69,187,146,210,1
+/content/AOLP/Subset_AC/96.jpg 101,182,174,199,1
+/content/AOLP/Subset_AC/97.jpg 273,153,346,178,1
+/content/AOLP/Subset_AC/98.jpg 263,204,334,224,1
+/content/AOLP/Subset_AC/99.jpg 113,141,191,165,1
+/content/AOLP/Subset_AC/100.jpg 14,159,93,179,1
+/content/AOLP/Subset_AC/101.jpg 236,158,311,182,1
+/content/AOLP/Subset_AC/102.jpg 118,123,196,149,1
+/content/AOLP/Subset_AC/103.jpg 216,130,292,153,1
+/content/AOLP/Subset_AC/104.jpg 62,150,132,167,1
+/content/AOLP/Subset_AC/105.jpg 30,153,104,171,1
+/content/AOLP/Subset_AC/106.jpg 39,147,111,168,1
+/content/AOLP/Subset_AC/107.jpg 114,162,186,183,1
+/content/AOLP/Subset_AC/108.jpg 132,177,211,199,1
+/content/AOLP/Subset_AC/109.jpg 27,114,93,138,1
+/content/AOLP/Subset_AC/110.jpg 25,192,101,214,1
+/content/AOLP/Subset_AC/111.jpg 139,168,216,187,1
+/content/AOLP/Subset_AC/112.jpg 113,128,186,151,1
+/content/AOLP/Subset_AC/113.jpg 119,158,196,185,1
+/content/AOLP/Subset_AC/114.jpg 93,131,158,151,1
+/content/AOLP/Subset_AC/115.jpg 97,187,170,209,1
+/content/AOLP/Subset_AC/116.jpg 156,138,235,163,1
+/content/AOLP/Subset_AC/117.jpg 164,191,247,217,1
+/content/AOLP/Subset_AC/118.jpg 240,155,314,183,1
+/content/AOLP/Subset_AC/119.jpg 227,160,303,182,1
+/content/AOLP/Subset_AC/120.jpg 79,181,154,208,1
+/content/AOLP/Subset_AC/121.jpg 54,136,128,166,1
+/content/AOLP/Subset_AC/122.jpg 258,105,334,124,1
+/content/AOLP/Subset_AC/123.jpg 37,129,108,154,1
+/content/AOLP/Subset_AC/124.jpg 255,124,327,143,1
+/content/AOLP/Subset_AC/125.jpg 262,192,338,215,1
+/content/AOLP/Subset_AC/126.jpg 25,169,96,199,1
+/content/AOLP/Subset_AC/127.jpg 90,178,167,203,1
+/content/AOLP/Subset_AC/128.jpg 225,113,299,133,1
+/content/AOLP/Subset_AC/129.jpg 100,175,172,199,1
+/content/AOLP/Subset_AC/130.jpg 70,172,151,199,1
+/content/AOLP/Subset_AC/131.jpg 248,184,319,205,1
+/content/AOLP/Subset_AC/132.jpg 225,171,293,195,1
+/content/AOLP/Subset_AC/133.jpg 237,132,315,159,1
+/content/AOLP/Subset_AC/134.jpg 173,168,237,198,1
+/content/AOLP/Subset_AC/135.jpg 226,184,296,210,1
+/content/AOLP/Subset_AC/136.jpg 252,100,325,129,1
+/content/AOLP/Subset_AC/137.jpg 268,178,348,207,1
+/content/AOLP/Subset_AC/138.jpg 92,135,164,158,1
+/content/AOLP/Subset_AC/139.jpg 64,174,136,194,1
+/content/AOLP/Subset_AC/140.jpg 164,162,241,182,1
+/content/AOLP/Subset_AC/141.jpg 73,173,149,197,1
+/content/AOLP/Subset_AC/142.jpg 226,130,306,153,1
+/content/AOLP/Subset_AC/143.jpg 123,193,192,216,1
+/content/AOLP/Subset_AC/144.jpg 42,180,123,204,1
+/content/AOLP/Subset_AC/145.jpg 24,182,98,205,1
+/content/AOLP/Subset_AC/146.jpg 11,197,86,213,1
+/content/AOLP/Subset_AC/147.jpg 14,182,90,209,1
+/content/AOLP/Subset_AC/148.jpg 243,187,323,207,1
+/content/AOLP/Subset_AC/149.jpg 142,175,223,199,1
+/content/AOLP/Subset_AC/150.jpg 17,128,94,156,1
+/content/AOLP/Subset_AC/151.jpg 22,81,90,100,1
+/content/AOLP/Subset_AC/152.jpg 2,132,74,154,1
+/content/AOLP/Subset_AC/153.jpg 165,40,229,60,1
+/content/AOLP/Subset_AC/154.jpg 167,106,237,130,1
+/content/AOLP/Subset_AC/155.jpg 218,34,285,51,1
+/content/AOLP/Subset_AC/156.jpg 221,73,291,99,1
+/content/AOLP/Subset_AC/157.jpg 161,45,229,70,1
+/content/AOLP/Subset_AC/158.jpg 247,60,311,82,1
+/content/AOLP/Subset_AC/159.jpg 106,61,175,88,1
+/content/AOLP/Subset_AC/160.jpg 47,21,115,45,1
+/content/AOLP/Subset_AC/161.jpg 51,87,119,106,1
+/content/AOLP/Subset_AC/162.jpg 149,63,218,85,1
+/content/AOLP/Subset_AC/163.jpg 124,116,199,140,1
+/content/AOLP/Subset_AC/164.jpg 263,70,333,93,1
+/content/AOLP/Subset_AC/165.jpg 222,73,293,97,1
+/content/AOLP/Subset_AC/166.jpg 8,27,74,50,1
+/content/AOLP/Subset_AC/167.jpg 193,51,254,77,1
+/content/AOLP/Subset_AC/168.jpg 193,108,267,133,1
+/content/AOLP/Subset_AC/169.jpg 87,32,151,57,1
+/content/AOLP/Subset_AC/170.jpg 51,105,128,125,1
+/content/AOLP/Subset_AC/171.jpg 281,35,349,56,1
+/content/AOLP/Subset_AC/172.jpg 286,79,351,105,1
+/content/AOLP/Subset_AC/173.jpg 111,44,178,67,1
+/content/AOLP/Subset_AC/174.jpg 130,72,200,97,1
+/content/AOLP/Subset_AC/175.jpg 120,61,190,85,1
+/content/AOLP/Subset_AC/176.jpg 114,139,184,156,1
+/content/AOLP/Subset_AC/177.jpg 275,133,348,156,1
+/content/AOLP/Subset_AC/178.jpg 62,29,139,51,1
+/content/AOLP/Subset_AC/179.jpg 63,80,129,102,1
+/content/AOLP/Subset_AC/180.jpg 163,36,229,62,1
+/content/AOLP/Subset_AC/181.jpg 160,109,233,135,1
+/content/AOLP/Subset_AC/182.jpg 48,28,115,52,1
+/content/AOLP/Subset_AC/183.jpg 35,78,102,92,1
+/content/AOLP/Subset_AC/184.jpg 60,135,135,152,1
+/content/AOLP/Subset_AC/185.jpg 39,118,112,143,1
+/content/AOLP/Subset_AC/186.jpg 73,56,142,73,1
+/content/AOLP/Subset_AC/187.jpg 230,25,297,44,1
+/content/AOLP/Subset_AC/188.jpg 233,90,303,112,1
+/content/AOLP/Subset_AC/189.jpg 274,27,341,49,1
+/content/AOLP/Subset_AC/190.jpg 11,26,71,45,1
+/content/AOLP/Subset_AC/191.jpg 190,26,252,48,1
+/content/AOLP/Subset_AC/192.jpg 164,81,229,100,1
+/content/AOLP/Subset_AC/193.jpg 200,22,257,45,1
+/content/AOLP/Subset_AC/194.jpg 206,83,275,101,1
+/content/AOLP/Subset_AC/195.jpg 31,21,102,44,1
+/content/AOLP/Subset_AC/196.jpg 21,70,83,94,1
+/content/AOLP/Subset_AC/197.jpg 98,42,162,69,1
+/content/AOLP/Subset_AC/198.jpg 114,104,176,123,1
+/content/AOLP/Subset_AC/199.jpg 174,38,251,61,1
+/content/AOLP/Subset_AC/200.jpg 176,20,236,37,1
+/content/AOLP/Subset_AC/201.jpg 178,123,245,147,1
+/content/AOLP/Subset_AC/202.jpg 168,47,234,66,1
+/content/AOLP/Subset_AC/203.jpg 167,97,238,123,1
+/content/AOLP/Subset_AC/204.jpg 71,53,146,76,1
+/content/AOLP/Subset_AC/205.jpg 68,126,146,150,1
+/content/AOLP/Subset_AC/206.jpg 186,64,249,83,1
+/content/AOLP/Subset_AC/207.jpg 178,127,247,149,1
+/content/AOLP/Subset_AC/208.jpg 275,29,346,50,1
+/content/AOLP/Subset_AC/209.jpg 280,81,344,100,1
+/content/AOLP/Subset_AC/210.jpg 286,156,352,176,1
+/content/AOLP/Subset_AC/211.jpg 25,30,90,51,1
+/content/AOLP/Subset_AC/212.jpg 30,89,105,110,1
+/content/AOLP/Subset_AC/213.jpg 41,123,116,139,1
+/content/AOLP/Subset_AC/214.jpg 224,62,290,79,1
+/content/AOLP/Subset_AC/215.jpg 222,114,289,134,1
+/content/AOLP/Subset_AC/216.jpg 131,67,206,87,1
+/content/AOLP/Subset_AC/217.jpg 86,40,156,61,1
+/content/AOLP/Subset_AC/218.jpg 81,114,152,126,1
+/content/AOLP/Subset_AC/219.jpg 82,82,143,104,1
+/content/AOLP/Subset_AC/220.jpg 158,48,224,71,1
+/content/AOLP/Subset_AC/221.jpg 156,107,218,124,1
+/content/AOLP/Subset_AC/222.jpg 117,27,179,44,1
+/content/AOLP/Subset_AC/223.jpg 223,23,301,42,1
+/content/AOLP/Subset_AC/224.jpg 222,89,291,112,1
+/content/AOLP/Subset_AC/225.jpg 17,90,86,119,1
+/content/AOLP/Subset_AC/226.jpg 145,76,212,96,1
+/content/AOLP/Subset_AC/227.jpg 145,128,211,148,1
+/content/AOLP/Subset_AC/228.jpg 8,49,75,74,1
+/content/AOLP/Subset_AC/229.jpg 72,95,147,120,1
+/content/AOLP/Subset_AC/230.jpg 82,148,151,172,1
+/content/AOLP/Subset_AC/231.jpg 206,25,263,47,1
+/content/AOLP/Subset_AC/232.jpg 202,146,275,166,1
+/content/AOLP/Subset_AC/233.jpg 90,20,158,43,1
+/content/AOLP/Subset_AC/234.jpg 84,124,158,147,1
+/content/AOLP/Subset_AC/235.jpg 210,42,275,62,1
+/content/AOLP/Subset_AC/236.jpg 222,110,290,129,1
+/content/AOLP/Subset_AC/237.jpg 228,163,302,189,1
+/content/AOLP/Subset_AC/238.jpg 270,75,338,99,1
+/content/AOLP/Subset_AC/239.jpg 120,57,186,77,1
+/content/AOLP/Subset_AC/240.jpg 114,115,190,137,1
+/content/AOLP/Subset_AC/241.jpg 57,28,120,51,1
+/content/AOLP/Subset_AC/242.jpg 40,96,118,121,1
+/content/AOLP/Subset_AC/243.jpg 138,32,205,54,1
+/content/AOLP/Subset_AC/244.jpg 128,97,201,122,1
+/content/AOLP/Subset_AC/245.jpg 94,48,168,71,1
+/content/AOLP/Subset_AC/246.jpg 176,94,255,113,1
+/content/AOLP/Subset_AC/247.jpg 68,38,136,63,1
+/content/AOLP/Subset_AC/248.jpg 73,56,145,82,1
+/content/AOLP/Subset_AC/249.jpg 25,26,95,52,1
+/content/AOLP/Subset_AC/250.jpg 5,101,75,129,1
+/content/AOLP/Subset_AC/251.jpg 108,97,184,126,1
+/content/AOLP/Subset_AC/252.jpg 96,194,170,213,1
+/content/AOLP/Subset_AC/253.jpg 162,66,229,93,1
+/content/AOLP/Subset_AC/254.jpg 148,157,228,179,1
+/content/AOLP/Subset_AC/255.jpg 135,69,201,92,1
+/content/AOLP/Subset_AC/256.jpg 150,38,221,58,1
+/content/AOLP/Subset_AC/257.jpg 81,28,152,46,1
+/content/AOLP/Subset_AC/258.jpg 72,98,140,121,1
+/content/AOLP/Subset_AC/259.jpg 200,52,269,76,1
+/content/AOLP/Subset_AC/260.jpg 210,178,288,199,1
+/content/AOLP/Subset_AC/261.jpg 118,47,184,72,1
+/content/AOLP/Subset_AC/262.jpg 112,98,190,119,1
+/content/AOLP/Subset_AC/263.jpg 44,59,119,81,1
+/content/AOLP/Subset_AC/264.jpg 43,133,115,155,1
+/content/AOLP/Subset_AC/265.jpg 147,71,212,89,1
+/content/AOLP/Subset_AC/266.jpg 17,64,91,85,1
+/content/AOLP/Subset_AC/267.jpg 18,115,86,138,1
+/content/AOLP/Subset_AC/268.jpg 250,49,316,72,1
+/content/AOLP/Subset_AC/269.jpg 221,114,289,131,1
+/content/AOLP/Subset_AC/270.jpg 185,102,257,124,1
+/content/AOLP/Subset_AC/271.jpg 129,69,203,94,1
+/content/AOLP/Subset_AC/272.jpg 124,130,194,150,1
+/content/AOLP/Subset_AC/273.jpg 214,104,274,126,1
+/content/AOLP/Subset_AC/274.jpg 208,68,280,87,1
+/content/AOLP/Subset_AC/275.jpg 215,128,284,150,1
+/content/AOLP/Subset_AC/276.jpg 224,53,290,75,1
+/content/AOLP/Subset_AC/277.jpg 235,118,305,145,1
+/content/AOLP/Subset_AC/278.jpg 250,42,323,67,1
+/content/AOLP/Subset_AC/279.jpg 246,110,318,129,1
+/content/AOLP/Subset_AC/280.jpg 247,169,321,193,1
+/content/AOLP/Subset_AC/281.jpg 151,50,213,73,1
+/content/AOLP/Subset_AC/282.jpg 49,63,114,86,1
+/content/AOLP/Subset_AC/283.jpg 137,34,202,58,1
+/content/AOLP/Subset_AC/284.jpg 136,128,213,151,1
+/content/AOLP/Subset_AC/285.jpg 104,47,165,70,1
+/content/AOLP/Subset_AC/286.jpg 103,136,171,164,1
+/content/AOLP/Subset_AC/287.jpg 269,49,340,71,1
+/content/AOLP/Subset_AC/288.jpg 138,29,206,47,1
+/content/AOLP/Subset_AC/289.jpg 137,84,207,112,1
+/content/AOLP/Subset_AC/290.jpg 79,55,146,76,1
+/content/AOLP/Subset_AC/291.jpg 71,133,147,156,1
+/content/AOLP/Subset_AC/292.jpg 147,37,211,53,1
+/content/AOLP/Subset_AC/293.jpg 139,90,213,108,1
+/content/AOLP/Subset_AC/294.jpg 227,57,303,81,1
+/content/AOLP/Subset_AC/295.jpg 230,126,305,144,1
+/content/AOLP/Subset_AC/296.jpg 41,36,108,57,1
+/content/AOLP/Subset_AC/297.jpg 145,23,208,44,1
+/content/AOLP/Subset_AC/298.jpg 141,76,212,101,1
+/content/AOLP/Subset_AC/299.jpg 142,132,210,152,1
+/content/AOLP/Subset_AC/300.jpg 58,68,127,91,1
+/content/AOLP/Subset_AC/301.jpg 152,29,216,49,1
+/content/AOLP/Subset_AC/302.jpg 158,101,224,123,1
+/content/AOLP/Subset_AC/303.jpg 281,54,344,76,1
+/content/AOLP/Subset_AC/304.jpg 250,26,318,51,1
+/content/AOLP/Subset_AC/305.jpg 174,21,244,48,1
+/content/AOLP/Subset_AC/306.jpg 165,105,238,128,1
+/content/AOLP/Subset_AC/307.jpg 91,107,161,126,1
+/content/AOLP/Subset_AC/308.jpg 127,89,203,112,1
+/content/AOLP/Subset_AC/309.jpg 111,58,201,78,1
+/content/AOLP/Subset_AC/310.jpg 59,105,152,122,1
+/content/AOLP/Subset_AC/311.jpg 130,97,207,113,1
+/content/AOLP/Subset_AC/312.jpg 125,151,205,174,1
+/content/AOLP/Subset_AC/313.jpg 107,118,193,138,1
+/content/AOLP/Subset_AC/314.jpg 121,174,210,190,1
+/content/AOLP/Subset_AC/315.jpg 109,192,196,209,1
+/content/AOLP/Subset_AC/316.jpg 163,187,253,209,1
+/content/AOLP/Subset_AC/317.jpg 116,114,192,132,1
+/content/AOLP/Subset_AC/318.jpg 134,119,200,132,1
+/content/AOLP/Subset_AC/319.jpg 131,116,202,131,1
+/content/AOLP/Subset_AC/320.jpg 127,120,191,134,1
+/content/AOLP/Subset_AC/321.jpg 119,140,180,155,1
+/content/AOLP/Subset_AC/322.jpg 125,128,190,145,1
+/content/AOLP/Subset_AC/323.jpg 123,109,196,130,1
+/content/AOLP/Subset_AC/324.jpg 124,116,192,136,1
+/content/AOLP/Subset_AC/325.jpg 126,99,196,124,1
+/content/AOLP/Subset_AC/326.jpg 123,124,187,140,1
+/content/AOLP/Subset_AC/327.jpg 124,105,191,122,1
+/content/AOLP/Subset_AC/328.jpg 121,118,190,134,1
+/content/AOLP/Subset_AC/329.jpg 119,120,192,138,1
+/content/AOLP/Subset_AC/330.jpg 119,124,196,141,1
+/content/AOLP/Subset_AC/331.jpg 130,120,203,139,1
+/content/AOLP/Subset_AC/332.jpg 130,140,202,162,1
+/content/AOLP/Subset_AC/333.jpg 124,127,193,146,1
+/content/AOLP/Subset_AC/334.jpg 130,117,195,134,1
+/content/AOLP/Subset_AC/335.jpg 119,110,192,124,1
+/content/AOLP/Subset_AC/336.jpg 122,126,189,142,1
+/content/AOLP/Subset_AC/337.jpg 120,129,189,144,1
+/content/AOLP/Subset_AC/338.jpg 134,118,202,134,1
+/content/AOLP/Subset_AC/339.jpg 121,111,189,123,1
+/content/AOLP/Subset_AC/340.jpg 113,118,184,133,1
+/content/AOLP/Subset_AC/341.jpg 127,123,197,141,1
+/content/AOLP/Subset_AC/342.jpg 129,110,197,130,1
+/content/AOLP/Subset_AC/343.jpg 121,145,187,160,1
+/content/AOLP/Subset_AC/344.jpg 122,131,187,145,1
+/content/AOLP/Subset_AC/345.jpg 112,117,181,129,1
+/content/AOLP/Subset_AC/346.jpg 119,125,195,140,1
+/content/AOLP/Subset_AC/347.jpg 133,113,191,126,1
+/content/AOLP/Subset_AC/348.jpg 118,116,185,137,1
+/content/AOLP/Subset_AC/349.jpg 129,117,196,132,1
+/content/AOLP/Subset_AC/350.jpg 128,140,197,157,1
+/content/AOLP/Subset_AC/351.jpg 122,124,187,141,1
+/content/AOLP/Subset_AC/352.jpg 123,133,193,155,1
+/content/AOLP/Subset_AC/353.jpg 120,122,181,136,1
+/content/AOLP/Subset_AC/354.jpg 121,107,186,123,1
+/content/AOLP/Subset_AC/355.jpg 116,110,181,123,1
+/content/AOLP/Subset_AC/356.jpg 118,120,181,133,1
+/content/AOLP/Subset_AC/357.jpg 125,121,190,133,1
+/content/AOLP/Subset_AC/358.jpg 117,135,185,149,1
+/content/AOLP/Subset_AC/359.jpg 125,120,196,136,1
+/content/AOLP/Subset_AC/360.jpg 123,124,195,140,1
+/content/AOLP/Subset_AC/361.jpg 116,101,185,119,1
+/content/AOLP/Subset_AC/362.jpg 132,116,197,135,1
+/content/AOLP/Subset_AC/363.jpg 133,119,198,134,1
+/content/AOLP/Subset_AC/364.jpg 125,109,189,126,1
+/content/AOLP/Subset_AC/365.jpg 121,115,187,128,1
+/content/AOLP/Subset_AC/366.jpg 128,109,189,127,1
+/content/AOLP/Subset_AC/367.jpg 119,113,193,129,1
+/content/AOLP/Subset_AC/368.jpg 129,113,193,126,1
+/content/AOLP/Subset_AC/369.jpg 120,111,185,128,1
+/content/AOLP/Subset_AC/370.jpg 137,114,205,130,1
+/content/AOLP/Subset_AC/371.jpg 138,117,199,134,1
+/content/AOLP/Subset_AC/372.jpg 118,111,188,128,1
+/content/AOLP/Subset_AC/373.jpg 119,122,188,143,1
+/content/AOLP/Subset_AC/374.jpg 132,129,198,147,1
+/content/AOLP/Subset_AC/375.jpg 107,135,175,154,1
+/content/AOLP/Subset_AC/376.jpg 107,117,176,136,1
+/content/AOLP/Subset_AC/377.jpg 118,116,191,134,1
+/content/AOLP/Subset_AC/378.jpg 125,132,192,155,1
+/content/AOLP/Subset_AC/379.jpg 118,139,186,153,1
+/content/AOLP/Subset_AC/380.jpg 127,114,189,131,1
+/content/AOLP/Subset_AC/381.jpg 125,98,200,124,1
+/content/AOLP/Subset_AC/382.jpg 120,90,191,109,1
+/content/AOLP/Subset_AC/383.jpg 119,94,185,113,1
+/content/AOLP/Subset_AC/384.jpg 119,104,188,122,1
+/content/AOLP/Subset_AC/385.jpg 132,125,198,141,1
+/content/AOLP/Subset_AC/386.jpg 119,126,188,143,1
+/content/AOLP/Subset_AC/387.jpg 129,157,207,177,1
+/content/AOLP/Subset_AC/388.jpg 139,121,205,135,1
+/content/AOLP/Subset_AC/389.jpg 122,111,190,126,1
+/content/AOLP/Subset_AC/390.jpg 118,132,192,150,1
+/content/AOLP/Subset_AC/391.jpg 123,125,195,140,1
+/content/AOLP/Subset_AC/392.jpg 108,120,183,141,1
+/content/AOLP/Subset_AC/393.jpg 143,124,209,146,1
+/content/AOLP/Subset_AC/394.jpg 138,120,207,138,1
+/content/AOLP/Subset_AC/395.jpg 140,132,209,149,1
+/content/AOLP/Subset_AC/396.jpg 127,123,200,147,1
+/content/AOLP/Subset_AC/397.jpg 121,98,194,118,1
+/content/AOLP/Subset_AC/398.jpg 126,126,197,145,1
+/content/AOLP/Subset_AC/399.jpg 126,90,192,109,1
+/content/AOLP/Subset_AC/400.jpg 130,141,195,162,1
+/content/AOLP/Subset_AC/401.jpg 145,160,208,181,1
+/content/AOLP/Subset_AC/402.jpg 132,122,193,141,1
+/content/AOLP/Subset_AC/403.jpg 117,110,190,132,1
+/content/AOLP/Subset_AC/404.jpg 127,125,191,147,1
+/content/AOLP/Subset_AC/405.jpg 123,104,198,127,1
+/content/AOLP/Subset_AC/406.jpg 133,90,199,113,1
+/content/AOLP/Subset_AC/407.jpg 119,127,188,148,1
+/content/AOLP/Subset_AC/408.jpg 126,121,192,139,1
+/content/AOLP/Subset_AC/409.jpg 135,109,205,128,1
+/content/AOLP/Subset_AC/410.jpg 116,121,185,139,1
+/content/AOLP/Subset_AC/411.jpg 127,114,191,123,1
+/content/AOLP/Subset_AC/412.jpg 130,101,195,119,1
+/content/AOLP/Subset_AC/413.jpg 127,116,188,135,1
+/content/AOLP/Subset_AC/414.jpg 125,111,194,127,1
+/content/AOLP/Subset_AC/415.jpg 126,101,190,121,1
+/content/AOLP/Subset_AC/416.jpg 131,92,192,111,1
+/content/AOLP/Subset_AC/417.jpg 128,118,195,138,1
+/content/AOLP/Subset_AC/418.jpg 120,110,185,129,1
+/content/AOLP/Subset_AC/419.jpg 120,119,186,138,1
+/content/AOLP/Subset_AC/420.jpg 111,121,181,144,1
+/content/AOLP/Subset_AC/421.jpg 124,106,190,123,1
+/content/AOLP/Subset_AC/422.jpg 114,110,175,128,1
+/content/AOLP/Subset_AC/423.jpg 107,109,178,132,1
+/content/AOLP/Subset_AC/424.jpg 129,99,195,116,1
+/content/AOLP/Subset_AC/425.jpg 126,91,194,101,1
+/content/AOLP/Subset_AC/426.jpg 107,97,178,120,1
+/content/AOLP/Subset_AC/427.jpg 132,131,201,152,1
+/content/AOLP/Subset_AC/428.jpg 92,142,166,165,1
+/content/AOLP/Subset_AC/429.jpg 132,112,192,132,1
+/content/AOLP/Subset_AC/430.jpg 127,108,193,120,1
+/content/AOLP/Subset_AC/431.jpg 126,114,193,129,1
+/content/AOLP/Subset_AC/432.jpg 136,96,196,111,1
+/content/AOLP/Subset_AC/433.jpg 130,112,195,126,1
+/content/AOLP/Subset_AC/434.jpg 124,107,192,125,1
+/content/AOLP/Subset_AC/435.jpg 126,105,196,119,1
+/content/AOLP/Subset_AC/436.jpg 133,99,197,123,1
+/content/AOLP/Subset_AC/437.jpg 133,107,199,123,1
+/content/AOLP/Subset_AC/438.jpg 125,107,192,124,1
+/content/AOLP/Subset_AC/439.jpg 120,103,192,120,1
+/content/AOLP/Subset_AC/440.jpg 131,116,197,129,1
+/content/AOLP/Subset_AC/441.jpg 128,112,194,130,1
+/content/AOLP/Subset_AC/442.jpg 131,163,196,182,1
+/content/AOLP/Subset_AC/443.jpg 127,64,193,78,1
+/content/AOLP/Subset_AC/444.jpg 131,89,202,107,1
+/content/AOLP/Subset_AC/445.jpg 124,92,195,109,1
+/content/AOLP/Subset_AC/446.jpg 136,107,202,126,1
+/content/AOLP/Subset_AC/447.jpg 120,50,187,75,1
+/content/AOLP/Subset_AC/448.jpg 130,140,190,162,1
+/content/AOLP/Subset_AC/449.jpg 124,78,188,99,1
+/content/AOLP/Subset_AC/450.jpg 123,63,190,87,1
+/content/AOLP/Subset_AC/451.jpg 127,65,196,84,1
+/content/AOLP/Subset_AC/452.jpg 129,74,194,90,1
+/content/AOLP/Subset_AC/453.jpg 102,82,175,110,1
+/content/AOLP/Subset_AC/454.jpg 121,103,189,121,1
+/content/AOLP/Subset_AC/455.jpg 118,99,186,120,1
+/content/AOLP/Subset_AC/456.jpg 133,116,194,128,1
+/content/AOLP/Subset_AC/457.jpg 121,57,187,75,1
+/content/AOLP/Subset_AC/458.jpg 116,68,197,96,1
+/content/AOLP/Subset_AC/459.jpg 123,115,180,132,1
+/content/AOLP/Subset_AC/460.jpg 128,100,189,117,1
+/content/AOLP/Subset_AC/461.jpg 127,130,187,148,1
+/content/AOLP/Subset_AC/462.jpg 127,132,189,152,1
+/content/AOLP/Subset_AC/463.jpg 132,101,198,120,1
+/content/AOLP/Subset_AC/464.jpg 128,112,193,133,1
+/content/AOLP/Subset_AC/465.jpg 134,126,188,146,1
+/content/AOLP/Subset_AC/466.jpg 124,123,183,142,1
+/content/AOLP/Subset_AC/467.jpg 124,123,191,147,1
+/content/AOLP/Subset_AC/468.jpg 119,137,181,152,1
+/content/AOLP/Subset_AC/469.jpg 130,128,196,148,1
+/content/AOLP/Subset_AC/470.jpg 116,103,175,120,1
+/content/AOLP/Subset_AC/471.jpg 127,124,193,143,1
+/content/AOLP/Subset_AC/472.jpg 127,113,188,133,1
+/content/AOLP/Subset_AC/473.jpg 112,131,172,151,1
+/content/AOLP/Subset_AC/474.jpg 137,109,200,129,1
+/content/AOLP/Subset_AC/475.jpg 130,98,192,122,1
+/content/AOLP/Subset_AC/476.jpg 133,130,195,146,1
+/content/AOLP/Subset_AC/477.jpg 125,132,185,151,1
+/content/AOLP/Subset_AC/478.jpg 131,111,192,133,1
+/content/AOLP/Subset_AC/479.jpg 131,116,193,141,1
+/content/AOLP/Subset_AC/480.jpg 123,109,186,133,1
+/content/AOLP/Subset_AC/481.jpg 122,105,180,123,1
+/content/AOLP/Subset_AC/482.jpg 127,115,188,135,1
+/content/AOLP/Subset_AC/483.jpg 129,115,189,142,1
+/content/AOLP/Subset_AC/484.jpg 141,114,205,134,1
+/content/AOLP/Subset_AC/485.jpg 125,114,183,133,1
+/content/AOLP/Subset_AC/486.jpg 130,122,191,139,1
+/content/AOLP/Subset_AC/487.jpg 130,123,189,142,1
+/content/AOLP/Subset_AC/488.jpg 134,113,191,132,1
+/content/AOLP/Subset_AC/489.jpg 141,109,202,135,1
+/content/AOLP/Subset_AC/490.jpg 135,120,193,142,1
+/content/AOLP/Subset_AC/491.jpg 137,111,200,134,1
+/content/AOLP/Subset_AC/492.jpg 124,109,188,131,1
+/content/AOLP/Subset_AC/493.jpg 128,111,189,135,1
+/content/AOLP/Subset_AC/494.jpg 129,117,187,139,1
+/content/AOLP/Subset_AC/495.jpg 127,111,197,137,1
+/content/AOLP/Subset_AC/496.jpg 129,125,194,143,1
+/content/AOLP/Subset_AC/497.jpg 128,119,193,145,1
+/content/AOLP/Subset_AC/498.jpg 123,126,181,145,1
+/content/AOLP/Subset_AC/499.jpg 116,120,183,142,1
+/content/AOLP/Subset_AC/500.jpg 127,123,191,148,1
+/content/AOLP/Subset_AC/501.jpg 128,132,190,149,1
+/content/AOLP/Subset_AC/502.jpg 135,101,197,119,1
+/content/AOLP/Subset_AC/503.jpg 122,94,188,116,1
+/content/AOLP/Subset_AC/504.jpg 139,96,197,119,1
+/content/AOLP/Subset_AC/505.jpg 116,87,175,113,1
+/content/AOLP/Subset_AC/506.jpg 135,132,197,151,1
+/content/AOLP/Subset_AC/507.jpg 123,122,192,143,1
+/content/AOLP/Subset_AC/508.jpg 132,117,201,137,1
+/content/AOLP/Subset_AC/509.jpg 131,120,195,140,1
+/content/AOLP/Subset_AC/510.jpg 126,125,193,143,1
+/content/AOLP/Subset_AC/511.jpg 141,108,209,126,1
+/content/AOLP/Subset_AC/512.jpg 112,121,172,138,1
+/content/AOLP/Subset_AC/513.jpg 120,100,189,132,1
+/content/AOLP/Subset_AC/514.jpg 135,104,190,125,1
+/content/AOLP/Subset_AC/515.jpg 126,114,185,132,1
+/content/AOLP/Subset_AC/516.jpg 128,88,192,116,1
+/content/AOLP/Subset_AC/517.jpg 129,94,192,113,1
+/content/AOLP/Subset_AC/518.jpg 120,127,186,153,1
+/content/AOLP/Subset_AC/519.jpg 124,106,184,125,1
+/content/AOLP/Subset_AC/520.jpg 123,118,182,134,1
+/content/AOLP/Subset_AC/521.jpg 126,109,193,129,1
+/content/AOLP/Subset_AC/522.jpg 126,103,188,123,1
+/content/AOLP/Subset_AC/523.jpg 134,89,200,114,1
+/content/AOLP/Subset_AC/524.jpg 133,108,195,129,1
+/content/AOLP/Subset_AC/525.jpg 134,110,193,129,1
+/content/AOLP/Subset_AC/526.jpg 135,81,196,99,1
+/content/AOLP/Subset_AC/527.jpg 139,106,196,125,1
+/content/AOLP/Subset_AC/528.jpg 130,97,188,119,1
+/content/AOLP/Subset_AC/529.jpg 125,109,192,134,1
+/content/AOLP/Subset_AC/530.jpg 137,95,195,119,1
+/content/AOLP/Subset_AC/531.jpg 130,110,190,129,1
+/content/AOLP/Subset_AC/532.jpg 130,103,191,120,1
+/content/AOLP/Subset_AC/533.jpg 131,106,193,119,1
+/content/AOLP/Subset_AC/534.jpg 128,112,191,132,1
+/content/AOLP/Subset_AC/535.jpg 132,95,192,114,1
+/content/AOLP/Subset_AC/536.jpg 133,107,192,126,1
+/content/AOLP/Subset_AC/537.jpg 139,80,198,99,1
+/content/AOLP/Subset_AC/538.jpg 127,108,185,126,1
+/content/AOLP/Subset_AC/539.jpg 131,111,187,125,1
+/content/AOLP/Subset_AC/540.jpg 136,120,189,141,1
+/content/AOLP/Subset_AC/541.jpg 132,111,185,124,1
+/content/AOLP/Subset_AC/542.jpg 121,103,183,125,1
+/content/AOLP/Subset_AC/543.jpg 123,95,185,115,1
+/content/AOLP/Subset_AC/544.jpg 122,117,190,136,1
+/content/AOLP/Subset_AC/545.jpg 124,130,175,144,1
+/content/AOLP/Subset_AC/546.jpg 125,117,184,134,1
+/content/AOLP/Subset_AC/547.jpg 122,108,185,126,1
+/content/AOLP/Subset_AC/548.jpg 104,118,163,134,1
+/content/AOLP/Subset_AC/549.jpg 128,110,181,126,1
+/content/AOLP/Subset_AC/550.jpg 118,103,172,120,1
+/content/AOLP/Subset_AC/551.jpg 127,118,186,136,1
+/content/AOLP/Subset_AC/552.jpg 130,115,188,132,1
+/content/AOLP/Subset_AC/553.jpg 127,94,193,115,1
+/content/AOLP/Subset_AC/554.jpg 118,107,177,127,1
+/content/AOLP/Subset_AC/555.jpg 128,108,181,126,1
+/content/AOLP/Subset_AC/556.jpg 114,125,177,150,1
+/content/AOLP/Subset_AC/557.jpg 120,123,180,144,1
+/content/AOLP/Subset_AC/558.jpg 129,132,191,153,1
+/content/AOLP/Subset_AC/559.jpg 137,127,194,148,1
+/content/AOLP/Subset_AC/560.jpg 134,121,187,139,1
+/content/AOLP/Subset_AC/561.jpg 128,103,180,116,1
+/content/AOLP/Subset_AC/562.jpg 114,106,172,126,1
+/content/AOLP/Subset_AC/563.jpg 115,106,169,122,1
+/content/AOLP/Subset_AC/564.jpg 131,108,186,127,1
+/content/AOLP/Subset_AC/565.jpg 120,104,182,127,1
+/content/AOLP/Subset_AC/566.jpg 122,101,177,115,1
+/content/AOLP/Subset_AC/567.jpg 127,90,183,109,1
+/content/AOLP/Subset_AC/568.jpg 118,100,173,116,1
+/content/AOLP/Subset_AC/569.jpg 119,116,185,136,1
+/content/AOLP/Subset_AC/570.jpg 122,119,190,136,1
+/content/AOLP/Subset_AC/571.jpg 117,98,171,117,1
+/content/AOLP/Subset_AC/572.jpg 108,113,175,136,1
+/content/AOLP/Subset_AC/573.jpg 123,117,184,139,1
+/content/AOLP/Subset_AC/574.jpg 125,116,191,133,1
+/content/AOLP/Subset_AC/575.jpg 126,117,188,134,1
+/content/AOLP/Subset_AC/576.jpg 129,113,185,127,1
+/content/AOLP/Subset_AC/577.jpg 131,114,192,130,1
+/content/AOLP/Subset_AC/578.jpg 141,161,197,173,1
+/content/AOLP/Subset_AC/579.jpg 151,91,211,107,1
+/content/AOLP/Subset_AC/580.jpg 113,154,177,173,1
+/content/AOLP/Subset_AC/581.jpg 114,137,170,153,1
+/content/AOLP/Subset_AC/582.jpg 133,110,189,125,1
+/content/AOLP/Subset_AC/583.jpg 133,120,195,139,1
+/content/AOLP/Subset_AC/584.jpg 133,98,195,114,1
+/content/AOLP/Subset_AC/585.jpg 132,102,197,122,1
+/content/AOLP/Subset_AC/586.jpg 126,112,189,131,1
+/content/AOLP/Subset_AC/587.jpg 130,113,186,128,1
+/content/AOLP/Subset_AC/588.jpg 129,100,191,116,1
+/content/AOLP/Subset_AC/589.jpg 136,95,195,115,1
+/content/AOLP/Subset_AC/590.jpg 125,105,188,123,1
+/content/AOLP/Subset_AC/591.jpg 128,103,190,122,1
+/content/AOLP/Subset_AC/592.jpg 129,96,182,111,1
+/content/AOLP/Subset_AC/593.jpg 132,102,194,121,1
+/content/AOLP/Subset_AC/594.jpg 127,110,193,123,1
+/content/AOLP/Subset_AC/595.jpg 134,99,192,120,1
+/content/AOLP/Subset_AC/596.jpg 129,107,194,126,1
+/content/AOLP/Subset_AC/597.jpg 124,112,193,133,1
+/content/AOLP/Subset_AC/598.jpg 129,100,188,122,1
+/content/AOLP/Subset_AC/599.jpg 134,109,192,127,1
+/content/AOLP/Subset_AC/600.jpg 133,103,198,117,1
+/content/AOLP/Subset_AC/601.jpg 125,109,191,132,1
+/content/AOLP/Subset_AC/602.jpg 143,129,201,134,1
+/content/AOLP/Subset_AC/603.jpg 136,108,206,123,1
+/content/AOLP/Subset_AC/604.jpg 139,121,195,141,1
+/content/AOLP/Subset_AC/605.jpg 129,159,192,175,1
+/content/AOLP/Subset_AC/606.jpg 131,104,198,116,1
+/content/AOLP/Subset_AC/607.jpg 121,68,188,88,1
+/content/AOLP/Subset_AC/608.jpg 136,103,194,119,1
+/content/AOLP/Subset_AC/609.jpg 125,90,188,115,1
+/content/AOLP/Subset_AC/610.jpg 135,106,205,129,1
+/content/AOLP/Subset_AC/611.jpg 122,116,182,139,1
+/content/AOLP/Subset_AC/612.jpg 125,107,193,125,1
+/content/AOLP/Subset_AC/613.jpg 139,96,187,114,1
+/content/AOLP/Subset_AC/614.jpg 130,99,178,114,1
+/content/AOLP/Subset_AC/615.jpg 130,106,179,124,1
+/content/AOLP/Subset_AC/616.jpg 125,109,176,124,1
+/content/AOLP/Subset_AC/617.jpg 138,125,183,136,1
+/content/AOLP/Subset_AC/618.jpg 121,122,167,132,1
+/content/AOLP/Subset_AC/619.jpg 145,124,198,133,1
+/content/AOLP/Subset_AC/620.jpg 141,108,199,123,1
+/content/AOLP/Subset_AC/621.jpg 110,124,161,142,1
+/content/AOLP/Subset_AC/622.jpg 110,107,165,124,1
+/content/AOLP/Subset_AC/623.jpg 125,120,173,134,1
+/content/AOLP/Subset_AC/624.jpg 133,106,184,119,1
+/content/AOLP/Subset_AC/625.jpg 125,114,176,129,1
+/content/AOLP/Subset_AC/626.jpg 131,109,186,128,1
+/content/AOLP/Subset_AC/627.jpg 133,100,184,116,1
+/content/AOLP/Subset_AC/628.jpg 140,94,186,110,1
+/content/AOLP/Subset_AC/629.jpg 137,108,184,123,1
+/content/AOLP/Subset_AC/630.jpg 196,189,270,212,1
+/content/AOLP/Subset_AC/631.jpg 147,91,216,111,1
+/content/AOLP/Subset_AC/632.jpg 92,209,157,228,1
+/content/AOLP/Subset_AC/633.jpg 135,168,201,188,1
+/content/AOLP/Subset_AC/634.jpg 126,61,195,84,1
+/content/AOLP/Subset_AC/635.jpg 132,117,192,135,1
+/content/AOLP/Subset_AC/636.jpg 147,205,213,224,1
+/content/AOLP/Subset_AC/637.jpg 146,104,216,124,1
+/content/AOLP/Subset_AC/638.jpg 102,210,163,227,1
+/content/AOLP/Subset_AC/639.jpg 68,170,133,189,1
+/content/AOLP/Subset_AC/640.jpg 142,126,211,145,1
+/content/AOLP/Subset_AC/641.jpg 143,149,200,167,1
+/content/AOLP/Subset_AC/642.jpg 56,151,116,169,1
+/content/AOLP/Subset_AC/643.jpg 197,213,255,232,1
+/content/AOLP/Subset_AC/644.jpg 102,211,165,228,1
+/content/AOLP/Subset_AC/645.jpg 68,166,133,182,1
+/content/AOLP/Subset_AC/646.jpg 189,153,247,169,1
+/content/AOLP/Subset_AC/647.jpg 170,146,232,162,1
+/content/AOLP/Subset_AC/648.jpg 156,127,219,145,1
+/content/AOLP/Subset_AC/649.jpg 147,174,207,190,1
+/content/AOLP/Subset_AC/650.jpg 89,207,153,223,1
+/content/AOLP/Subset_AC/651.jpg 98,29,149,47,1
+/content/AOLP/Subset_AC/652.jpg 252,35,308,53,1
+/content/AOLP/Subset_AC/653.jpg 169,205,227,218,1
+/content/AOLP/Subset_AC/654.jpg 129,75,188,90,1
+/content/AOLP/Subset_AC/655.jpg 139,103,198,121,1
+/content/AOLP/Subset_AC/656.jpg 157,109,212,127,1
+/content/AOLP/Subset_AC/657.jpg 124,133,182,146,1
+/content/AOLP/Subset_AC/658.jpg 104,122,163,138,1
+/content/AOLP/Subset_AC/659.jpg 213,96,270,113,1
+/content/AOLP/Subset_AC/660.jpg 107,62,161,76,1
+/content/AOLP/Subset_AC/661.jpg 132,112,188,130,1
+/content/AOLP/Subset_AC/662.jpg 174,142,233,158,1
+/content/AOLP/Subset_AC/663.jpg 123,190,181,205,1
+/content/AOLP/Subset_AC/664.jpg 226,94,282,111,1
+/content/AOLP/Subset_AC/665.jpg 154,25,212,45,1
+/content/AOLP/Subset_AC/666.jpg 110,87,166,100,1
+/content/AOLP/Subset_AC/667.jpg 130,44,186,62,1
+/content/AOLP/Subset_AC/668.jpg 196,150,250,169,1
+/content/AOLP/Subset_AC/669.jpg 111,83,171,103,1
+/content/AOLP/Subset_AC/670.jpg 105,209,166,231,1
+/content/AOLP/Subset_AC/671.jpg 145,8,201,29,1
+/content/AOLP/Subset_AC/672.jpg 189,60,242,76,1
+/content/AOLP/Subset_AC/673.jpg 158,89,214,109,1
+/content/AOLP/Subset_AC/674.jpg 173,149,230,166,1
+/content/AOLP/Subset_AC/675.jpg 113,17,171,38,1
+/content/AOLP/Subset_AC/676.jpg 157,150,216,167,1
+/content/AOLP/Subset_AC/677.jpg 115,108,173,124,1
+/content/AOLP/Subset_AC/678.jpg 96,27,150,43,1
+/content/AOLP/Subset_AC/679.jpg 93,68,147,83,1
+/content/AOLP/Subset_AC/680.jpg 164,48,215,65,1
+/content/AOLP/Subset_AC/681.jpg 117,5,167,20,1
+/content/0316_parkinglot_ID_train/img/1.png 333.00004650000005,101.000172,398.0003335,138.00007200000002,0 
+/content/0316_parkinglot_ID_train/img/105.png 347.9999325,1.0000410000000004,423.0001435,18.000003,0 
+/content/0316_parkinglot_ID_train/img/106.png 581.999638,1.0000410000000004,624.999936,23.999955,0 
+/content/0316_parkinglot_ID_train/img/11.png 264.00025850000003,1.0000410000000004,340.0001495,23.999955,0 
+/content/0316_parkinglot_ID_train/img/112.png 308.9999165,1.0000409999999984,365.9996395,29.999907,0 
+/content/0316_parkinglot_ID_train/img/113.png 313.99987849999997,39.999876,374.0002035,77.99996399999999,0 
+/content/0316_parkinglot_ID_train/img/114.png 405.0004364999999,60.99985499999999,467.0001215,96.999861,0 175.999912,35.000112,200.999722,69.00003600000001,0 
+/content/0316_parkinglot_ID_train/img/115.png 323.9998025,49.999992,389.9997695,91.000056,0 
+/content/0316_parkinglot_ID_train/img/116.png 555.0004680000001,64.000125,585.00024,97.000155,0 274.99986250000006,44.999934,340.0001495,85.99999799999999,0 
+/content/0316_parkinglot_ID_train/img/117.png 512.9998499999999,57.000132,576.999676,94.000032,0 
+/content/0316_parkinglot_ID_train/img/118.png 296.00017149999996,44.000040000000006,361.00045850000004,82.000128,0 
+/content/0316_parkinglot_ID_train/img/119.png 532.000018,52.999967999999996,590.999882,89.999868,0 268.00015,42.000105000000005,336.999938,81.000087,0 
+/content/0316_parkinglot_ID_train/img/12.png 486.999579,1.0001880000000007,568.999893,38.00008799999999,0 
+/content/0316_parkinglot_ID_train/img/120.png 505.00006699999994,50.000139000000004,568.999893,89.000121,0 208.0002155,38.00008799999999,269.9999005,74.999988,0 
+/content/0316_parkinglot_ID_train/img/121.png 435.00020850000004,48.999950999999996,500.0004955,84.99995700000001,0 174.0001615,39.999876,230.9998845,74.999988,0 
+/content/0316_parkinglot_ID_train/img/122.png 395.0005125,51.000033,457.0001975,87.00003900000002,0 
+/content/0316_parkinglot_ID_train/img/123.png 178.000053,49.999992,202.999863,85.000104,0 
+/content/0316_parkinglot_ID_train/img/124.png 378.99977500000006,58.99991999999999,442.99960100000004,95.99982,0 
+/content/0316_parkinglot_ID_train/img/125.png 347.0002525,61.000001999999995,413.00021949999996,99.00009,0 
+/content/0316_parkinglot_ID_train/img/126.png 314.999949,66.00005999999999,383.999737,102.99996,0 
+/content/0316_parkinglot_ID_train/img/127.png 550.9997955,77.00007,577.9997464999999,112.00018200000001,0 
+/content/0316_parkinglot_ID_train/img/128.png 351.000144,68.999889,414.00028999999995,104.99989500000001,0 
+/content/0316_parkinglot_ID_train/img/129.png 334.000117,75.000135,397.99994300000003,114.000117,0 
+/content/0316_parkinglot_ID_train/img/130.png 549.999725,87.00003899999999,578.9998169999999,120.00006900000001,0 285.999857,75.999882,349.000003,113.99997,0 
+/content/0316_parkinglot_ID_train/img/131.png 490.9994705000001,83.99991600000001,550.9997955,123.99979200000001,0 
+/content/0316_parkinglot_ID_train/img/132.png 269.9999005,65.999913,330.9999055,104.99989500000001,0 
+/content/0316_parkinglot_ID_train/img/133.png 327.0004045,1.0000409999999984,389.0000895,31.000094999999998,0 
+/content/0316_parkinglot_ID_train/img/156.png 294.0000305,33.00003,360.9996775,74.000094,0 
+/content/0316_parkinglot_ID_train/img/157.png 201.99979249999998,74.000094,233.0000255,112.00018200000001,0 
+/content/0316_parkinglot_ID_train/img/158.png 420.0003225000001,66.999954,491.0002515,108.00001800000001,0 194.9996895,67.000101,225.99992249999997,100.000131,0 
+/content/0316_parkinglot_ID_train/img/159.png 392.000301,72.999906,456.000127,110.999994,0 
+/content/0316_parkinglot_ID_train/img/160.png 358.000247,72.000012,421.00039300000003,110.00010000000002,0 
+/content/0316_parkinglot_ID_train/img/161.png 201.0001125,72.00001200000001,228.99974349999997,107.00012400000001,0 
+/content/0316_parkinglot_ID_train/img/162.png 401.00015450000006,77.99996399999999,461.0004795,116.00005200000001,0 193.999619,67.999995,222.999711,104.00000100000001,0 
+/content/0316_parkinglot_ID_train/img/163.png 398.0003335,74.000094,459.00033850000005,110.999994,0 
+/content/0316_parkinglot_ID_train/img/164.png 352.0002145,72.999906,418.00018149999994,110.999994,0 
+/content/0316_parkinglot_ID_train/img/166.png 342.9999705,71.000118,403.99997550000006,108.00001800000001,0 
+/content/0316_parkinglot_ID_train/img/167.png 309.99998700000003,69.99993,373.999813,108.00001800000001,0 
+/content/0316_parkinglot_ID_train/img/168.png 255.0000145,61.999895999999985,320.00030150000003,99.999984,0 544.999763,80.000046,574.9995349999999,113.99997,0 
+/content/0316_parkinglot_ID_train/img/169.png 208.0002155,55.000049999999995,274.0001825,91.99995,0 490.000181,72.999906,554.0000070000001,110.999994,0 
+/content/0316_parkinglot_ID_train/img/17.png 294.0000305,75.999882,360.9996775,113.99997,0 
+/content/0316_parkinglot_ID_train/img/170.png 442.00031150000007,64.999872,508.0002785,102.99996000000002,0 
+/content/0316_parkinglot_ID_train/img/171.png 256.000085,54.999902999999996,319.000231,93.999885,0 
+/content/0316_parkinglot_ID_train/img/172.png 489.9997905,58.00002599999999,555.9997575,97.99990199999999,0 207.999825,51.00018,270.999971,88.00008,0 
+/content/0316_parkinglot_ID_train/img/173.png 429.9998560000001,61.000001999999995,493.000002,99.00009,0 190.0005085,47.000016,218.0001395,80.99994,0 
+/content/0316_parkinglot_ID_train/img/174.png 357.9998565,50.999886,423.0001435,88.99997400000001,0 
+/content/0316_parkinglot_ID_train/img/175.png 527.9997360000001,58.00002599999999,590.999882,91.99995,0 
+/content/0316_parkinglot_ID_train/img/18.png 284.0001065,72.000012,350.9997535,110.00010000000002,0 534.9998390000001,83.000022,569.9995729999999,121.00011,0 
+/content/0316_parkinglot_ID_train/img/181.png 236.00023699999997,51.000033,319.999911,95.999967,0 
+/content/0316_parkinglot_ID_train/img/182.png 462.9998395,61.00014899999999,543.9996924999999,103.000107,0 
+/content/0316_parkinglot_ID_train/img/183.png 298.99999249999996,58.00002599999999,360.9996775,97.99990199999999,0 
+/content/0316_parkinglot_ID_train/img/184.png 247.99991150000002,58.99991999999999,314.9995585,98.99979599999999,0 536.9995895,69.99993,572.9997845,105.00004200000001,0 
+/content/0316_parkinglot_ID_train/img/185.png 225.00024249999998,62.99993699999999,291.0002095,106.000083,0 483.00007800000003,71.000118,556.000148,110.999994,0 
+/content/0316_parkinglot_ID_train/img/186.png 463.9995195000001,72.999906,528.9998065,113.99997,0 
+/content/0316_parkinglot_ID_train/img/187.png 273.99979199999996,76.000029,352.999504,119.00017500000001,0 
+/content/0316_parkinglot_ID_train/img/188.png 501.0001755,81.99983399999999,576.0003865,122.999898,0 
+/content/0316_parkinglot_ID_train/img/19.png 236.9995265,73.0002,301.99981349999996,113.000076,0 522.999774,83.99991599999998,580.9999580000001,117.99983999999999,0 
+/content/0316_parkinglot_ID_train/img/193.png 313.0001985,1.0000410000000004,374.0002035,44.000187000000004,0 
+/content/0316_parkinglot_ID_train/img/194.png 314.999949,52.000074,378.000095,91.99995,0 
+/content/0316_parkinglot_ID_train/img/195.png 440.9998505,73.00005300000001,506.00013749999994,112.00003500000001,0 194.00039999999998,65.99991299999999,253.00026400000002,98.999943,0 
+/content/0316_parkinglot_ID_train/img/196.png 414.99997,75.999882,478.99979600000006,110.999994,0 
+/content/0316_parkinglot_ID_train/img/197.png 365.00034999999997,72.000012,429.000176,108.99991200000001,0 
+/content/0316_parkinglot_ID_train/img/198.png 196.00015050000002,49.000098,222.0004215,85.99999799999999,0 
+/content/0316_parkinglot_ID_train/img/199.png 175.00023199999998,40.999917,209.999966,73.99994699999999,0 399.00001349999997,56.000091,460.0000185,95.000073,0 
+/content/0316_parkinglot_ID_train/img/2.png 312.000128,73.99994699999999,380.999916,112.99992900000001,0 
+/content/0316_parkinglot_ID_train/img/20.png 472.9997635,80.99994,538.9997305,120.999816,0 
+/content/0316_parkinglot_ID_train/img/200.png 373.99981299999996,49.99984499999999,441.9999209999999,92.99999100000001,0 
+/content/0316_parkinglot_ID_train/img/204.png 360.000388,51.000033,429.000176,90.000015,0 
+/content/0316_parkinglot_ID_train/img/205.png 362.99981850000006,55.99994399999999,428.0001055,92.999844,0 
+/content/0316_parkinglot_ID_train/img/206.png 344.999721,56.999838,412.999829,91.99995,0 
+/content/0316_parkinglot_ID_train/img/207.png 175.00023199999998,52.000074,228.000454,88.99997400000001,0 
+/content/0316_parkinglot_ID_train/img/208.png 418.9998615,58.99991999999999,499.9997145,99.999984,0 
+/content/0316_parkinglot_ID_train/img/209.png 364.99956899999995,51.000033,422.99975299999994,94.000179,0 
+/content/0316_parkinglot_ID_train/img/21.png 308.0002365,69.00003600000001,374.0002035,108.99991200000001,0 
+/content/0316_parkinglot_ID_train/img/212.png 320.0003015,59.999813999999986,391.00023049999993,97.99990199999999,0 
+/content/0316_parkinglot_ID_train/img/213.png 304.000345,59.99981399999999,378.000095,94.999926,0 
+/content/0316_parkinglot_ID_train/img/214.png 562.9998605,71.000118,590.9994915000001,108.00001800000001,0 
+/content/0316_parkinglot_ID_train/img/215.png 316.00001949999995,65.999913,382.9996665,104.99989500000001,0 
+/content/0316_parkinglot_ID_train/img/216.png 290.00052949999997,69.000036,352.0002145,107.000124,0 558.9999690000001,78.999858,588.0000610000001,110.99999399999999,0 
+/content/0316_parkinglot_ID_train/img/22.png 287.999998,66.999954,351.000144,105.00004200000001,0 540.9998714999999,79.999899,577.0000665,115.999905,0 
+/content/0316_parkinglot_ID_train/img/23.png 235.99984649999996,63.000083999999994,297.9995315,104.000148,0 523.9998445,77.00007,584.0001695,115.00015800000001,0 
+/content/0316_parkinglot_ID_train/img/24.png 472.0000835,73.0002,532.0004084999999,113.000076,0 
+/content/0316_parkinglot_ID_train/img/25.png 291.99988950000005,67.999848,362.0001385,105.999936,0 
+/content/0316_parkinglot_ID_train/img/26.png 265.000329,67.00010099999999,334.000117,106.000083,0 527.0000560000001,77.99996399999999,590.000202,116.00005200000001,0 
+/content/0316_parkinglot_ID_train/img/27.png 236.00023699999997,64.999872,299.000383,102.99996000000002,0 506.00013750000005,81.99983399999999,566.0004625,116.99994600000001,0 
+/content/0316_parkinglot_ID_train/img/28.png 467.99980150000005,73.00005300000001,533.0000885,112.00003500000001,0 
+/content/0316_parkinglot_ID_train/img/29.png 276.99961299999995,67.00010099999999,344.999721,106.000083,0 
+/content/0316_parkinglot_ID_train/img/3.png 231.00027500000002,45.999975,295.000101,81.99998099999999,0 497.000284,76.000029,565.0003919999999,117.999987,0 
+/content/0316_parkinglot_ID_train/img/30.png 231.99995499999997,61.999895999999985,290.999819,102.99996,0 516.0000615,74.999988,576.0003864999999,114.999864,0 
+/content/0316_parkinglot_ID_train/img/31.png 218.99981949999997,65.000019,285.99946650000004,101.000025,0 464.99998049999994,72.999906,525.9999855,113.99997,0 
+/content/0316_parkinglot_ID_train/img/32.png 440.0001705,70.999971,506.00013749999994,109.999953,0 
+/content/0316_parkinglot_ID_train/img/38.png 303.9999545,75.999882,374.9998835,113.99997,0 
+/content/0316_parkinglot_ID_train/img/39.png 294.9997105,75.999882,355.9997155,116.99994600000001,0 
+/content/0316_parkinglot_ID_train/img/4.png 407.9994765,54.000156000000004,472.9997635,94.000032,0 
+/content/0316_parkinglot_ID_train/img/40.png 267.0000795,70.99982399999999,332.0003665,108.99991200000001,0 527.0000560000001,85.999851,561.00011,121.999857,0 
+/content/0316_parkinglot_ID_train/img/41.png 505.99974700000007,77.99996399999999,568.999893,117.99983999999999,0 
+/content/0316_parkinglot_ID_train/img/42.png 281.999575,74.999988,344.999721,114.999864,0 
+/content/0316_parkinglot_ID_train/img/43.png 255.99969450000003,80.99994,320.9999815,117.99983999999999,0 513.0002405,84.99981,574.0002455000001,122.99989800000002,0 
+/content/0316_parkinglot_ID_train/img/44.png 208.0002155,81.000087,264.9999385,120.00006900000001,0 491.00025149999993,88.00008,557.0002185,129.000144,0 
+/content/0316_parkinglot_ID_train/img/45.png 198.99958100000003,79.999899,227.999673,115.999905,0 443.000382,89.000121,502.00024600000006,128.000103,0 
+/content/0316_parkinglot_ID_train/img/46.png 401.00015450000006,90.00016199999999,466.0004415,127.000062,0 
+/content/0316_parkinglot_ID_train/img/47.png 
+/content/0316_parkinglot_ID_train/img/48.png 416.0000405,87.00003899999999,452.00023550000003,123.000045,0 
+/content/0316_parkinglot_ID_train/img/49.png 392.999981,85.000104,432.99967699999996,122.000004,0 
+/content/0316_parkinglot_ID_train/img/5.png 528.0001265000001,58.99991999999999,593.0004135,92.999844,0 
+/content/0316_parkinglot_ID_train/img/50.png 353.999965,81.99998099999999,387.000339,120.999963,0 
+/content/0316_parkinglot_ID_train/img/51.png 191.00018849999998,77.00007000000002,212.0004975,109.00020599999999,0 
+/content/0316_parkinglot_ID_train/img/52.png 419.000252,85.99999799999999,449.00002400000005,121.00011,0 
+/content/0316_parkinglot_ID_train/img/53.png 359.99960699999997,88.99997400000001,393.99966099999995,125.999874,0 
+/content/0316_parkinglot_ID_train/img/54.png 299.99967250000003,95.99982,330.9999055,130.999932,0 
+/content/0316_parkinglot_ID_train/img/55.png 501.99946500000004,103.99985399999998,534.9998390000001,138.999966,0 
+/content/0316_parkinglot_ID_train/img/56.png 338.00000850000004,85.000104,374.0002035,119.000028,0 
+/content/0316_parkinglot_ID_train/img/57.png 394.0004420000001,5.999951999999999,429.000176,45.999827999999994,0 
+/content/0316_parkinglot_ID_train/img/58.png 
+/content/0316_parkinglot_ID_train/img/59.png 
+/content/0316_parkinglot_ID_train/img/6.png 563.000251,33.000029999999995,607.999909,72.999906,0 
+/content/0316_parkinglot_ID_train/img/60.png 
+/content/0316_parkinglot_ID_train/img/61.png 
+/content/0316_parkinglot_ID_train/img/62.png 
+/content/0316_parkinglot_ID_train/img/63.png 
+/content/0316_parkinglot_ID_train/img/64.png 
+/content/0316_parkinglot_ID_train/img/65.png 
+/content/0316_parkinglot_ID_train/img/66.png 
+/content/0316_parkinglot_ID_train/img/67.png 
+/content/0316_parkinglot_ID_train/img/7.png 560.0000395,1.9999349999999967,616.0000825000001,43.999893,0 
+/content/0316_parkinglot_ID_train/img/77.png 243.99962950000003,35.999858999999994,284.9997865,62.999936999999996,0 
+/content/0316_parkinglot_ID_train/img/78.png 490.999861,28.000119,535.999519,58.000173,0 
+/content/0316_parkinglot_ID_train/img/87.png 303.0002745,67.00010099999999,364.99995950000005,103.000107,0 
+/content/0316_parkinglot_ID_train/img/88.png 535.0002295,76.00017600000001,586.0003105000001,113.000076,0 282.99964550000004,72.000012,347.9999325,108.99991200000001,0 
+/content/0316_parkinglot_ID_train/img/89.png 523.9998445,73.99994699999999,565.0000015,112.99992900000001,0 
+/content/0316_parkinglot_ID_train/img/90.png 253.99994399999997,67.999995,312.99980800000003,109.999953,0 
+/content/0316_parkinglot_ID_train/img/91.png 227.999673,71.999865,290.999819,115.000011,0 487.00036,79.999899,551.0001860000001,121.99985699999999,0 
+/content/0316_parkinglot_ID_train/img/92.png 202.999863,72.999906,232.999635,106.99983,0 459.0003385,81.000087,525.9999855,123.000045,0 
+/content/0316_parkinglot_ID_train/img/93.png 408.9999375,80.99994,475.9995845,119.000028,0 
+/content/0316_parkinglot_ID_train/img/94.png 368.99985100000004,78.000111,432.999677,117.000093,0 
+/content/0316_parkinglot_ID_train/img/95.png 207.00014500000003,67.99984800000001,241.00019899999998,102.99996000000002,0 
+/content/0316_parkinglot_ID_train/img/96.png 413.00021949999996,72.000012,479.00018650000004,108.99991200000001,0 191.9998685,60.99985499999999,223.9997815,96.999861,0 
+/content/0316_parkinglot_ID_train/img/97.png 405.00004600000005,71.000118,473.000154,108.00001800000001,0 
+/content/0316_parkinglot_ID_train/img/98.png 349.000003,63.000083999999994,412.999829,101.000172,0 
+/content/0316_parkinglot_ID_train/img/99.png 507.00020800000004,79.000152,575.000316,113.000076,0 
+/content/0316_parkinglot_ID_train/img/000000144.png 1797.0,824.00004,1918.0003199999999,881.0002800000001,0 
+/content/0316_parkinglot_ID_train/img/000000145.png 1767.0,824.0000399999999,1919.9990400000002,878.00004,0 
+/content/0316_parkinglot_ID_train/img/000000146.png 1723.99968,827.00028,1919.99904,886.00068,0 
+/content/0316_parkinglot_ID_train/img/000000147.png 1694.99904,828.99936,1888.99968,886.99968,0 
+/content/0316_parkinglot_ID_train/img/000000148.png 1663.00032,827.9992800000001,1857.99936,886.99968,0 
+/content/0316_parkinglot_ID_train/img/000000149.png 1624.0003199999999,832.99968,1817.00064,885.9996000000001,0 
+/content/0316_parkinglot_ID_train/img/000000150.png 1585.00128,830.9995200000001,1774.0003199999999,885.9996000000001,0 
+/content/0316_parkinglot_ID_train/img/000000151.png 1546.99968,830.9995200000001,1738.99968,885.9996000000001,0 
+/content/0316_parkinglot_ID_train/img/000000152.png 1504.99968,837.0,1696.9996800000001,886.9996799999999,0 
+/content/0316_parkinglot_ID_train/img/000000153.png 1463.99904,835.99992,1649.9990400000002,886.99968,0 
+/content/0316_parkinglot_ID_train/img/000000154.png 1425.0009599999998,840.0002400000001,1610.00064,887.99976,0 
+/content/0316_parkinglot_ID_train/img/000000155.png 1380.0009599999998,836.9999999999999,1564.00032,887.99976,0 
+/content/0316_parkinglot_ID_train/img/000000156.png 1334.00064,837.0,1524.0000000000002,886.9996799999999,0 
+/content/0316_parkinglot_ID_train/img/000000157.png 1288.99968,834.99984,1473.99936,887.99976,0 
+/content/0316_parkinglot_ID_train/img/000000158.png 1242.99936,841.0003200000001,1426.99872,889.99992,0 
+/content/0316_parkinglot_ID_train/img/000000159.png 1193.00064,845.0001000000001,1372.00032,890.00046,0 
+/content/0316_parkinglot_ID_train/img/000000160.png 1142.00064,840.00024,1324.9996800000001,895.00032,0 
+/content/0316_parkinglot_ID_train/img/000000161.png 1094.9990400000002,844.0005600000001,1269.99936,894.0002399999998,0 
+/content/0316_parkinglot_ID_train/img/000000162.png 1038.0009599999998,840.0002400000001,1227.0000000000002,888.99984,0 1863.0,858.0006000000001,1919.9990400000002,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000163.png 987.0009600000001,840.00024,1165.00032,894.00024,0 1802.00064,860.00076,1920.0,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000164.png 931.00032,840.00024,1116.0,894.00024,0 1749.0,856.00044,1920.00096,907.0002000000001,0 
+/content/0316_parkinglot_ID_train/img/000000165.png 877.0003200000001,840.00024,1059.00096,891.0000000000001,0 1696.9996800000001,858.0006000000001,1898.99904,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000166.png 826.00032,842.0004,1005.0,891.0,0 1638.99936,854.0002799999999,1846.00032,907.0002,0 
+/content/0316_parkinglot_ID_train/img/000000167.png 770.99904,841.00032,952.99968,894.00024,0 1584.0,856.00044,1776.0,908.0002800000001,0 
+/content/0316_parkinglot_ID_train/img/000000168.png 710.00064,840.00024,892.9996799999999,895.00032,0 1526.00064,859.99968,1718.00064,909.9993599999999,0 
+/content/0316_parkinglot_ID_train/img/000000169.png 660.0,837.0,842.00064,891.0000000000001,0 1468.00032,852.0001199999999,1668.0009599999998,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000170.png 608.99904,840.00024,783.9993600000001,894.00024,0 1419.99936,853.0002,1604.9990400000002,903.99996,0 
+/content/0316_parkinglot_ID_train/img/000000171.png 550.99968,838.00008,728.99904,894.00024,0 1360.0003199999999,852.0001199999999,1548.99936,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000172.png 492.99936,840.00024,673.99968,892.00008,0 1300.0003199999999,856.00044,1488.99936,903.9999599999999,0 
+/content/0316_parkinglot_ID_train/img/000000173.png 439.00032,841.00032,616.0012800000001,896.0004,0 1242.0,858.0006000000001,1429.00032,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000174.png 381.00096,844.0005600000001,571.00032,892.0000799999999,0 1183.99968,860.0002200000001,1367.9990400000002,903.00042,0 
+/content/0316_parkinglot_ID_train/img/000000175.png 325.00032,844.0005600000001,505.00032,896.0004000000001,0 1123.99968,849.00042,1305.0,910.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000176.png 258.99936,842.0004,442.99872,892.0000799999999,0 1059.0,860.0002200000001,1252.00032,904.0005,0 
+/content/0316_parkinglot_ID_train/img/000000177.png 208.00032,835.9999200000001,389.00064,894.00024,0 1012.0003200000001,853.0002,1183.99968,903.99996,0 1838.00064,857.0005199999999,1920.0,909.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000178.png 142.00032000000002,840.0002400000001,333.0,887.99976,0 949.00032,856.99998,1129.00032,902.0003399999999,0 1778.9990400000002,854.00028,1920.0,908.0002800000001,0 
+/content/0316_parkinglot_ID_train/img/000000179.png 86.99904,841.0003200000001,273.99936,889.99992,0 886.9996799999999,855.9999,1064.00064,900.00018,0 1709.9990400000002,856.00044,1919.9990400000002,909.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000180.png 22.000320000000006,845.0000999999999,213.0,892.00062,0 824.0006400000001,858.00006,1002.0,903.0004199999998,0 1650.99936,859.99968,1867.9996800000001,910.9994400000002,0 
+/content/0316_parkinglot_ID_train/img/000000181.png 1.0003200000000012,842.0004,159.99935999999997,892.0000799999999,0 764.0006400000001,855.9998999999999,946.9996799999999,903.00042,0 1595.99904,858.0006000000001,1800.9993599999998,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000182.png 1.0003200000000012,841.0003200000001,102.0,891.0,0 712.0003200000001,854.00028,883.99968,901.9997999999999,0 1536.9993600000003,856.0004400000001,1737.0,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000183.png 1.0003199999999979,840.9997800000001,46.00128,886.00014,0 649.99968,851.99958,823.9996799999999,899.0001000000001,0 1473.99936,852.0001199999999,1675.0003199999999,902.9998800000001,0 
+/content/0316_parkinglot_ID_train/img/000000184.png 584.0006400000001,849.99996,762.0000000000001,897.99948,0 1414.0003199999999,844.9995600000001,1605.0,903.99996,0 
+/content/0316_parkinglot_ID_train/img/000000185.png 524.0006400000001,845.0006400000001,697.00032,895.00032,0 1354.0003199999999,849.9999600000001,1545.0,898.99956,0 
+/content/0316_parkinglot_ID_train/img/000000186.png 454.99968,842.0004,644.9990399999999,889.99992,0 1291.9996800000001,847.9992599999999,1480.00032,894.99978,0 
+/content/0316_parkinglot_ID_train/img/000000187.png 400.99967999999996,842.0004,583.00032,889.99992,0 1226.00064,847.9997999999999,1413.0009599999998,898.99956,0 
+/content/0316_parkinglot_ID_train/img/000000188.png 335.00064000000003,845.0006400000001,521.00064,895.00032,0 1166.00064,845.9996399999999,1356.0,898.99956,0 
+/content/0316_parkinglot_ID_train/img/000000189.png 271.99968,845.0001000000001,455.99904,890.00046,0 1101.99936,844.99956,1288.99968,897.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000190.png 210.0,839.9997,399.99935999999997,887.0002200000001,0 1045.00032,842.0003999999999,1227.00096,895.00032,0 
+/content/0316_parkinglot_ID_train/img/000000191.png 149.00063999999998,836.9994600000001,337.99967999999996,880.99974,0 984.99936,837.0,1163.99904,889.9999200000001,0 
+/content/0316_parkinglot_ID_train/img/000000192.png 88.00032,829.0004400000001,276.00096,878.00004,0 922.0003200000001,827.00028,1096.00032,887.0007599999999,0 
+/content/0316_parkinglot_ID_train/img/000000193.png 27.00000000000001,831.00006,215.99904,877.0005000000001,0 860.00064,832.99968,1033.0003199999999,884.9995200000001,0 
+/content/0316_parkinglot_ID_train/img/000000194.png 0.9993600000000002,827.00028,155.99904,879.00012,0 798.9993599999999,831.9996,975.0,886.99968,0 
+/content/0316_parkinglot_ID_train/img/000000195.png 2.0006400000000024,833.00076,105.00096,881.00028,0 733.00032,837.0,910.0012800000001,884.99952,0 
+/content/0316_parkinglot_ID_train/img/000000196.png 675.0,838.00008,846.9993599999999,885.9995999999999,0 0.9993600000000002,837.99954,37.99968,876.9994200000001,0 
+/content/0316_parkinglot_ID_train/img/000000197.png 609.99936,842.0004,784.9996800000001,892.0000799999999,0 1879.0003199999999,854.0002799999999,1920.0,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000198.png 546.0000000000001,845.00064,728.99904,894.0002399999998,0 1812.0000000000002,853.0002000000001,1920.0,912.0006,0 
+/content/0316_parkinglot_ID_train/img/000000199.png 488.99904,848.00034,666.0000000000001,892.00062,0 1754.0006400000002,852.00066,1920.0,913.00014,0 
+/content/0316_parkinglot_ID_train/img/000000200.png 429.0009600000001,844.00002,609.0009600000001,891.00054,0 1688.99904,857.0005199999999,1882.9996800000001,911.00052,0 
+/content/0316_parkinglot_ID_train/img/000000201.png 370.99968,842.0004,550.99968,889.99992,0 1621.9996800000001,856.00044,1829.00064,907.0002000000001,0 
+/content/0316_parkinglot_ID_train/img/000000202.png 303.99936,844.00002,495.99935999999997,891.00054,0 1570.0003199999999,859.99968,1753.99968,910.9994400000002,0 
+/content/0316_parkinglot_ID_train/img/000000203.png 245.00064000000003,842.0004,438.00095999999996,891.0,0 1505.00064,854.00028,1691.0006400000002,910.00044,0 
+/content/0316_parkinglot_ID_train/img/000000204.png 184.99968,838.00008,376.99968000000007,887.9997599999999,0 1441.99968,856.0004400000001,1625.99904,906.00012,0 
+/content/0316_parkinglot_ID_train/img/000000205.png 127.00032000000002,835.9999200000001,314.00064,884.99952,0 1377.00096,852.0001199999999,1574.00064,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000206.png 54.999359999999996,832.0001400000001,262.00032000000004,877.0005,0 1314.0,842.0004,1503.99936,899.0006400000001,0 
+/content/0316_parkinglot_ID_train/img/000000207.png 0.9993600000000002,826.99974,196.99871999999996,873.00018,0 1260.0,844.99956,1437.99936,897.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000208.png 1.0003200000000012,824.9995799999999,138.0,871.0000200000001,0 1197.0,842.0003999999999,1375.99968,896.0004,0 
+/content/0316_parkinglot_ID_train/img/000000209.png 0.9993600000000002,819.99972,71.99904,876.99996,0 1129.9996800000001,847.9997999999999,1308.99936,898.99956,0 
+/content/0316_parkinglot_ID_train/img/000000210.png 1063.99872,852.0001199999999,1245.99936,903.99996,0 
+/content/0316_parkinglot_ID_train/img/000000211.png 1004.99904,846.00018,1186.9996800000001,909.9998999999999,0 1866.00096,869.0003999999999,1920.00096,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000212.png 934.9996799999999,854.00028,1119.99936,912.0006,0 1800.0,873.9997199999999,1920.0,928.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000213.png 877.00032,860.99976,1054.00128,914.99976,0 1735.0003199999999,876.99996,1920.0,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000214.png 810.0,859.99968,997.0003200000001,915.9998400000001,0 1666.00032,878.00004,1883.00064,928.9998,0 
+/content/0316_parkinglot_ID_train/img/000000215.png 742.00032,852.00012,932.9999999999999,910.00044,0 1599.0,868.99932,1809.0,927.99972,0 
+/content/0316_parkinglot_ID_train/img/000000216.png 682.9996799999999,853.0002,867.99936,907.0002,0 1539.0000000000002,867.00024,1741.9996800000001,924.0004799999999,0 
+/content/0316_parkinglot_ID_train/img/000000217.png 619.99968,849.99996,805.9996800000001,910.0004399999999,0 1475.00064,870.00048,1668.00096,920.0001599999999,0 
+/content/0316_parkinglot_ID_train/img/000000218.png 551.00064,853.0002,739.0012800000001,906.00012,0 1408.00032,866.00016,1608.0009599999998,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000219.png 491.00064,856.00044,679.99968,907.0002000000001,0 1344.9993600000003,869.0003999999999,1545.0,920.00016,0 
+/content/0316_parkinglot_ID_train/img/000000220.png 426.00096,858.0006000000001,617.00064,907.0002,0 1282.99968,871.0005600000001,1470.0,921.00024,0 
+/content/0316_parkinglot_ID_train/img/000000221.png 363.00095999999996,856.00044,555.0009600000001,908.0002800000001,0 1205.9990400000002,866.00016,1405.99968,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000222.png 299.00064,854.0002799999999,487.9996799999999,906.00012,0 1146.0009599999998,870.0004799999999,1335.0,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000223.png 226.99968,857.00052,426.00000000000006,907.0002,0 1077.0000000000002,873.99972,1275.0,922.99932,0 
+/content/0316_parkinglot_ID_train/img/000000224.png 167.00064000000003,858.0006000000001,363.0,907.0002,0 1017.0,872.9996400000001,1207.9996800000001,922.99932,0 
+/content/0316_parkinglot_ID_train/img/000000225.png 100.99968000000001,864.9995399999999,304.99968,912.0000600000001,0 954.0009600000001,872.99964,1133.00064,927.99972,0 1821.0009599999998,885.0006,1920.0,937.00044,0 
+/content/0316_parkinglot_ID_train/img/000000226.png 29.999039999999987,868.99986,237.0,916.0003800000001,0 887.00064,878.00004,1071.0,936.00036,0 1759.0003199999999,887.99976,1920.0,941.99976,0 
+/content/0316_parkinglot_ID_train/img/000000227.png 0.9993600000000002,866.0001599999999,172.00032000000002,916.99992,0 813.99936,883.00044,1008.0,932.0000399999999,0 1692.99936,887.99976,1907.9990400000002,941.99976,0 
+/content/0316_parkinglot_ID_train/img/000000228.png 0.9993599999999936,873.00018,112.00031999999999,917.00046,0 755.00064,881.00028,943.0012800000001,932.00004,0 1626.9993600000003,884.99952,1834.00032,937.99944,0 
+/content/0316_parkinglot_ID_train/img/000000229.png 1.0003199999999979,865.9996199999999,42.0,912.0000600000001,0 691.9996799999999,878.00004,870.9993599999999,930.9999600000001,0 1567.00032,881.00028,1764.0,936.00036,0 
+/content/0316_parkinglot_ID_train/img/000000230.png 619.9987199999999,873.99972,801.9993599999999,923.9993999999999,0 1492.00032,878.9995799999999,1699.00128,925.0000200000001,0 
+/content/0316_parkinglot_ID_train/img/000000231.png 549.0009600000001,873.99972,739.00032,923.9993999999999,0 1423.9987199999998,878.00004,1624.9996800000001,926.9996399999999,0 
+/content/0316_parkinglot_ID_train/img/000000232.png 488.99904,874.9997999999999,670.99968,926.99964,0 1359.0000000000002,869.9994,1559.00064,928.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000233.png 421.99967999999996,878.9995799999999,610.00032,925.0000200000001,0 1292.9999999999998,879.0001199999999,1483.99968,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000234.png 359.00064000000003,882.9998999999999,552.00096,929.00034,0 1230.9993599999998,881.00028,1421.9990400000002,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000235.png 292.99968,874.9997999999999,480.0,926.99964,0 1170.0009599999998,878.00004,1354.00032,933.00012,0 
+/content/0316_parkinglot_ID_train/img/000000236.png 225.99935999999997,876.99996,424.99968,926.9996399999999,0 1100.00064,876.99996,1287.00096,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000237.png 167.00064000000003,876.99942,363.0,923.99994,0 1040.9999999999998,874.9998,1227.0,924.99948,0 1840.9996800000001,868.99932,1920.0,928.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000238.png 99.99936000000001,872.99964,301.00032,927.99972,0 973.99968,873.99972,1155.0,932.00004,0 1783.00032,866.0006999999999,1920.0,928.0002599999999,0 
+/content/0316_parkinglot_ID_train/img/000000239.png 35.000640000000004,876.99996,238.00032,928.9998,0 905.9990399999999,880.99974,1091.9990400000002,928.00026,0 1709.9990400000002,873.9997199999999,1919.9990400000002,929.99988,0 
+/content/0316_parkinglot_ID_train/img/000000240.png 1.0003200000000012,872.9996400000001,174.00000000000003,922.99932,0 847.00032,876.99996,1024.00128,933.00012,0 1645.99968,868.99932,1858.0003199999999,928.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000241.png 1.0003200000000012,862.99992,109.00032,919.0000799999999,0 773.9999999999999,867.00024,958.99968,923.0004,0 1585.0003199999999,862.0003800000001,1796.00064,925.0000200000001,0 
+/content/0316_parkinglot_ID_train/img/000000242.png 1.0003199999999979,859.99968,42.0,914.99976,0 710.00064,869.0004000000001,892.9996799999999,919.0000799999999,0 1516.99968,869.0003999999999,1718.00064,920.00016,0 
+/content/0316_parkinglot_ID_train/img/000000243.png 640.99968,862.99992,830.9990399999999,915.9998400000001,0 1452.0000000000002,860.99976,1648.99968,915.9998400000001,0 
+/content/0316_parkinglot_ID_train/img/000000244.png 579.0009600000001,857.99952,759.0009600000001,911.99952,0 1387.0003199999999,866.00016,1576.9996800000001,915.99984,0 
+/content/0316_parkinglot_ID_train/img/000000245.png 512.00064,856.9994399999999,697.0003200000001,911.99952,0 1317.99936,859.99968,1512.0000000000002,914.99976,0 
+/content/0316_parkinglot_ID_train/img/000000246.png 445.00128000000007,862.99992,634.00032,915.9998400000001,0 1255.0003199999999,865.00008,1444.9996800000001,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000247.png 381.00000000000006,867.00024,562.0003200000001,921.0002400000001,0 1185.0,867.00024,1375.9996800000001,923.0004,0 
+/content/0316_parkinglot_ID_train/img/000000248.png 306.00000000000006,874.9997999999999,500.99904000000004,926.99964,0 1117.99968,874.9997999999999,1308.99936,927.99972,0 
+/content/0316_parkinglot_ID_train/img/000000249.png 241.99968,874.9997999999999,430.99872,926.99964,0 1054.99968,869.9994,1232.99904,927.99972,0 
+/content/0316_parkinglot_ID_train/img/000000250.png 175.00032000000002,874.9998,376.00128,922.99932,0 989.00064,873.9997199999999,1175.00064,924.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000251.png 109.00032,870.00048,306.0,920.0001599999999,0 926.0006400000001,867.00024,1099.00032,927.0007199999999,0 
+/content/0316_parkinglot_ID_train/img/000000252.png 40.99968,873.0001799999999,237.99936,919.00062,0 859.0012800000001,869.0003999999999,1031.0006400000002,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000253.png 0.9993600000000002,871.0005600000001,179.99904000000004,921.00024,0 788.00064,867.00024,968.0006400000001,923.0004,0 
+/content/0316_parkinglot_ID_train/img/000000254.png 1.0003200000000012,861.99984,116.00064,916.99992,0 727.0003200000001,862.9999200000001,902.00064,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000255.png 1.9987200000000005,860.00022,46.99968,907.0007400000001,0 656.00064,849.99996,834.0,908.00028,0 
+/content/0316_parkinglot_ID_train/img/000000256.png 592.99872,845.9996400000001,763.99968,903.99996,0 
+/content/0316_parkinglot_ID_train/img/000000257.png 520.99968,848.99988,705.99936,901.9998,0 
+/content/0316_parkinglot_ID_train/img/000000258.png 458.00064000000003,856.00044,640.99968,903.9999599999999,0 
+/content/0316_parkinglot_ID_train/img/000000259.png 388.99968,862.9999200000001,578.99904,910.9994399999999,0 1863.0,866.00016,1919.9990400000002,920.00016,0 
+/content/0316_parkinglot_ID_train/img/000000260.png 324.0,865.0000799999999,508.99968,916.99992,0 1795.99968,872.99964,1919.9990400000002,926.99964,0 
+/content/0316_parkinglot_ID_train/img/000000261.png 258.99936,865.00008,449.99904,924.0004799999999,0 1731.0,879.0001199999999,1919.99904,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000262.png 191.99904,867.00024,384.99935999999997,920.00016,0 1663.00128,882.00036,1883.00064,930.99996,0 
+/content/0316_parkinglot_ID_train/img/000000263.png 133.00032,869.0003999999999,318.0,920.00016,0 1591.00032,879.0001199999999,1814.0006400000002,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000264.png 65.99999999999999,865.00008,255.99936000000002,925.00056,0 1533.0,878.00004,1743.0,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000265.png 5.000640000000005,870.00048,196.00032,920.0001599999999,0 1470.0,878.00004,1671.99936,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000266.png 1.0003200000000012,871.00056,138.0,923.0004,0 1396.00032,876.99996,1606.00032,933.00012,0 
+/content/0316_parkinglot_ID_train/img/000000267.png 1.0003200000000012,870.00048,70.99968,920.0001599999999,0 1335.0,881.00028,1532.9999999999998,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000268.png 1270.00032,873.9997199999999,1470.0009599999998,930.99996,0 
+/content/0316_parkinglot_ID_train/img/000000269.png 1208.0006399999997,869.0003999999999,1400.00064,921.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000270.png 1138.99968,859.99968,1333.00032,916.99992,0 
+/content/0316_parkinglot_ID_train/img/000000271.png 1076.00064,859.99968,1268.00064,912.9996000000001,0 
+/content/0316_parkinglot_ID_train/img/000000272.png 1009.00032,865.00008,1191.9993600000003,919.00008,0 
+/content/0316_parkinglot_ID_train/img/000000273.png 945.0009600000001,866.0006999999999,1135.00032,928.0002599999999,0 1821.99936,876.99996,1920.0,928.9998,0 
+/content/0316_parkinglot_ID_train/img/000000274.png 883.0003200000001,873.9997199999999,1065.99936,927.99972,0 1754.99904,879.00012,1920.0,939.0006000000001,0 
+/content/0316_parkinglot_ID_train/img/000000275.png 811.99968,876.99996,1005.0,926.9996399999999,0 1689.0,885.9995999999999,1908.99936,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000276.png 747.0000000000001,873.9997199999999,937.99968,924.9994800000001,0 1625.00064,882.00036,1835.00064,936.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000277.png 682.99872,871.0005600000001,870.99936,920.0001599999999,0 1556.00064,881.00028,1770.0,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000278.png 617.00064,866.00016,808.00032,925.00056,0 1495.00032,874.9998,1701.00096,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000279.png 552.0,871.00056,739.00032,924.0004799999999,0 1431.0,881.00028,1629.0,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000280.png 488.00064,873.99972,682.99968,923.9993999999999,0 1361.9990400000002,882.0003599999999,1561.99968,933.00012,0 
+/content/0316_parkinglot_ID_train/img/000000281.png 416.99904000000004,871.00056,618.0,924.0004799999999,0 1293.0,876.99996,1495.99968,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000282.png 358.99968,874.0002599999999,550.99968,921.00078,0 1234.99968,881.00028,1426.9996800000001,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000283.png 294.99935999999997,874.9997999999999,483.00000000000006,926.99964,0 1167.99936,883.00044,1350.0,936.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000284.png 220.99967999999996,874.9998,424.99968,924.99948,0 1095.0,883.00044,1288.00032,933.0001199999999,0 1847.00064,895.00032,1920.00096,943.9999199999999,0 
+/content/0316_parkinglot_ID_train/img/000000285.png 154.99967999999998,866.00016,356.00064,919.00008,0 1030.0012799999997,876.99996,1220.00064,926.9996399999999,0 1787.9999999999998,884.99952,1920.0,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000286.png 89.00064,862.9999200000001,297.0,911.99952,0 967.9996799999999,872.99964,1151.9990400000002,924.9994800000001,0 1715.9990400000002,884.99952,1915.99968,941.9997599999999,0 
+/content/0316_parkinglot_ID_train/img/000000287.png 28.999679999999998,860.99976,232.99967999999998,914.99976,0 901.9996799999999,872.99964,1095.0,924.9994800000001,0 1651.00032,885.9996000000001,1855.0003199999999,941.99976,0 
+/content/0316_parkinglot_ID_train/img/000000288.png 1.0003200000000012,862.99992,162.0,915.9998400000001,0 834.0,873.9997199999999,1013.9999999999999,930.99996,0 1579.9996800000001,884.99952,1780.0003199999999,941.9997599999999,0 
+/content/0316_parkinglot_ID_train/img/000000289.png 2.0006400000000024,871.0000200000001,105.00096,913.00014,0 765.99936,874.9998,950.9990399999999,930.9999600000001,0 1513.99968,891.0,1714.0003199999999,946.00008,0 
+/content/0316_parkinglot_ID_train/img/000000290.png 0.9993600000000002,859.99968,42.999359999999996,912.9996000000001,0 708.9993599999999,874.9997999999999,885.0,927.99972,0 1453.99968,884.99952,1642.9987199999998,937.99944,0 
+/content/0316_parkinglot_ID_train/img/000000291.png 639.0,869.0003999999999,817.99968,921.0002400000001,0 1384.9996800000001,881.0002800000001,1579.99872,938.00052,0 
+/content/0316_parkinglot_ID_train/img/000000292.png 571.00032,866.00016,758.0006400000001,921.0002400000001,0 1321.9996800000001,885.0006,1507.9996800000001,937.00044,0 
+/content/0316_parkinglot_ID_train/img/000000293.png 508.00032000000004,867.00024,689.0006400000001,919.00008,0 1254.0,878.00004,1438.99968,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000294.png 444.99936,860.99976,628.99872,919.0000799999999,0 1180.99968,873.00018,1382.99904,935.99982,0 
+/content/0316_parkinglot_ID_train/img/000000295.png 375.99936,865.0000799999999,565.99872,915.9998400000001,0 1119.99936,881.00028,1316.99904,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000296.png 311.99904000000004,866.00016,499.99968,923.0004,0 1051.00032,881.0002800000001,1238.00064,940.00068,0 
+/content/0316_parkinglot_ID_train/img/000000297.png 243.00095999999996,869.0003999999999,435.00096,921.0002400000001,0 983.9999999999999,881.0002800000001,1166.9990400000002,940.00068,0 
+/content/0316_parkinglot_ID_train/img/000000298.png 175.00032000000002,866.0001599999999,374.00064000000003,916.99992,0 922.0003199999999,884.99952,1105.99968,937.99944,0 
+/content/0316_parkinglot_ID_train/img/000000299.png 107.99904000000001,867.00024,307.99967999999996,919.00008,0 854.0006400000001,881.0002800000001,1036.9996800000001,938.00052,0 
+/content/0316_parkinglot_ID_train/img/000000300.png 37.99967999999999,866.00016,240.99936000000002,920.00016,0 778.99968,879.0001199999999,963.9993599999999,933.00012,0 
+/content/0316_parkinglot_ID_train/img/000000301.png 0.9993600000000002,870.0004799999999,174.99935999999997,923.0004,0 716.9990399999999,882.00036,903.99936,936.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000302.png 0.9993600000000002,869.9994,107.99904000000001,926.99964,0 651.0000000000001,881.00028,834.99936,933.00012,0 
+/content/0316_parkinglot_ID_train/img/000000303.png 1.0003199999999979,878.9995799999999,49.00032,925.0000200000001,0 579.99936,882.99936,771.9993599999999,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000304.png 514.00128,885.9995999999999,692.00064,940.99968,0 1866.00096,898.99956,1920.00096,954.99972,0 
+/content/0316_parkinglot_ID_train/img/000000305.png 445.99967999999996,887.99976,627.0,940.9996800000001,0 1795.99968,894.99978,1919.9990400000002,957.99942,0 
+/content/0316_parkinglot_ID_train/img/000000306.png 376.99967999999996,884.99952,573.99936,940.99968,0 1725.9993599999998,900.00018,1920.0,960.99966,0 
+/content/0316_parkinglot_ID_train/img/000000307.png 310.00128,886.99968,500.00064000000003,936.9993599999999,0 1655.00064,899.99964,1872.00096,956.99988,0 
+/content/0316_parkinglot_ID_train/img/000000308.png 240.99936000000002,890.99946,441.00000000000006,937.99998,0 1576.00032,894.99978,1793.00064,955.99926,0 
+/content/0316_parkinglot_ID_train/img/000000309.png 168.00096,886.9996799999999,366.00096,937.99944,0 1513.99968,892.00008,1721.00064,952.00056,0 
+/content/0316_parkinglot_ID_train/img/000000310.png 105.99936,883.00044,309.99935999999997,936.0003600000001,0 1444.9996800000001,889.99992,1646.00064,948.00024,0 
+/content/0316_parkinglot_ID_train/img/000000311.png 37.000319999999995,881.0002800000001,243.00095999999996,930.99996,0 1383.0,890.0004600000001,1583.0006399999997,952.0000200000001,0 
+/content/0316_parkinglot_ID_train/img/000000312.png 0.9993600000000002,879.0001199999999,169.99967999999998,937.0004399999999,0 1312.00032,888.0002999999999,1500.00096,949.9998599999999,0 
+/content/0316_parkinglot_ID_train/img/000000313.png 0.9993600000000002,878.00004,105.0,935.00028,0 1229.00064,888.0003,1437.0,954.00018,0 
+/content/0316_parkinglot_ID_train/img/000000314.png 1.0003199999999979,884.00052,39.00095999999999,933.0001199999999,0 1170.99936,895.00032,1359.0000000000002,950.0004,0 
+/content/0316_parkinglot_ID_train/img/000000315.png 1101.0,892.00008,1296.99936,950.0004,0 
+/content/0316_parkinglot_ID_train/img/000000316.png 1035.0,895.99932,1225.9996800000001,953.99964,0 
+/content/0316_parkinglot_ID_train/img/000000317.png 968.0006399999999,903.9999599999999,1158.0,956.99988,0 1842.00096,907.0002,1920.00096,963.00036,0 
+/content/0316_parkinglot_ID_train/img/000000318.png 899.0006400000001,903.00042,1087.99968,966.00006,0 1773.99936,916.00038,1920.0,976.99986,0 
+/content/0316_parkinglot_ID_train/img/000000319.png 829.9987199999999,908.00028,1030.99968,962.00028,0 1700.00064,915.0003,1906.00128,977.9999399999999,0 
+/content/0316_parkinglot_ID_train/img/000000320.png 756.00096,902.9998800000001,959.00064,960.00012,0 1630.00032,907.99974,1830.0009599999998,968.99922,0 
+/content/0316_parkinglot_ID_train/img/000000321.png 697.00032,895.99986,884.0006400000001,957.99942,0 1559.00064,909.99936,1762.0003199999999,966.9996,0 
+/content/0316_parkinglot_ID_train/img/000000322.png 630.0,888.0003,824.99904,952.0000200000001,0 1493.00064,903.99996,1701.0,963.00036,0 
+/content/0316_parkinglot_ID_train/img/000000323.png 559.00032,887.99976,760.0012800000001,943.99992,0 1426.9996800000001,893.9997,1623.9993599999998,962.99982,0 
+/content/0316_parkinglot_ID_train/img/000000324.png 486.9993599999999,887.99976,691.99968,946.00008,0 1359.0,899.99964,1549.9996800000001,960.0001199999999,0 
+/content/0316_parkinglot_ID_train/img/000000325.png 428.99999999999994,891.0000000000001,624.99936,940.99968,0 1288.99968,898.99956,1483.00032,955.9998,0 
+/content/0316_parkinglot_ID_train/img/000000326.png 355.00128,885.9995999999999,568.00032,940.99968,0 1224.0,897.9994800000001,1418.00064,953.99964,0 
+/content/0316_parkinglot_ID_train/img/000000327.png 297.00095999999996,879.0001199999999,501.00096,938.0005199999999,0 1157.9990400000002,896.0004,1357.99968,953.00064,0 
+/content/0316_parkinglot_ID_train/img/000000328.png 233.99903999999998,881.0002800000001,438.99936,938.00052,0 1091.0006400000002,894.99978,1287.0,956.9993400000001,0 
+/content/0316_parkinglot_ID_train/img/000000329.png 165.99936000000002,886.99968,369.99936,936.9993599999999,0 1026.0,893.9997000000001,1220.99904,959.9995799999999,0 1876.00032,910.0004399999999,1920.00096,963.00036,0 
+/content/0316_parkinglot_ID_train/img/000000330.png 101.00064,891.0,306.00096,941.99976,0 963.0,906.00012,1149.0000000000002,961.0002000000001,0 1800.99936,910.9994399999999,1919.9990400000002,969.99984,0 
+/content/0316_parkinglot_ID_train/img/000000331.png 34.998720000000006,887.00022,241.99968,947.9997,0 892.00032,899.0001,1085.00064,959.9995799999999,0 1740.99936,915.0003,1919.9990400000002,979.00002,0 
+/content/0316_parkinglot_ID_train/img/000000332.png 1.0003200000000012,880.99974,183.00096000000002,948.9997800000001,0 820.9987199999999,907.0002,1020.9993599999998,963.00036,0 1672.0003199999999,920.00016,1889.00064,978.00048,0 
+/content/0316_parkinglot_ID_train/img/000000333.png 1.0003200000000012,894.00024,114.0,949.00032,0 756.0,906.00012,955.00032,962.00028,0 1603.99968,916.0003800000001,1816.00032,982.00026,0 
+/content/0316_parkinglot_ID_train/img/000000334.png 1.0003200000000012,901.99926,54.0,948.9997800000001,0 695.9990399999999,906.00012,883.99968,960.00012,0 1530.0,914.99976,1748.9990400000002,973.00008,0 
+/content/0316_parkinglot_ID_train/img/000000335.png 625.00032,906.00012,826.9996799999999,960.00012,0 1471.9996800000001,911.99952,1677.0,970.99992,0 
+/content/0316_parkinglot_ID_train/img/000000336.png 564.0,906.00012,758.00064,956.9998800000001,0 1404.0,903.00042,1605.00096,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000337.png 496.99968000000007,903.9999599999999,686.99904,956.99988,0 1329.99936,910.00044,1533.9993599999998,965.00052,0 
+/content/0316_parkinglot_ID_train/img/000000338.png 427.00032,897.9994800000001,626.00064,953.99964,0 1265.9990400000002,907.0002,1465.99968,962.00028,0 
+/content/0316_parkinglot_ID_train/img/000000339.png 360.0,896.0004,559.00032,949.00032,0 1198.99968,903.00042,1393.00032,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000340.png 289.00032000000004,899.0006400000001,490.99967999999996,948.00024,0 1133.0006399999997,904.0005,1324.00032,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000341.png 230.99904,895.99932,424.99968000000007,953.99964,0 1061.99904,900.0001800000001,1254.99936,966.00006,0 
+/content/0316_parkinglot_ID_train/img/000000342.png 162.99935999999997,898.99956,365.99904,953.99964,0 996.00096,904.0005,1187.0006400000002,970.00038,0 
+/content/0316_parkinglot_ID_train/img/000000343.png 109.99968,901.9997999999999,310.00032,953.99964,0 929.9999999999999,907.0002,1126.99968,967.0006799999999,0 
+/content/0316_parkinglot_ID_train/img/000000344.png 48.99936,895.99986,246.99936,957.99942,0 868.00032,906.00066,1070.9999999999998,969.0003,0 
+/content/0316_parkinglot_ID_train/img/000000345.png 1.0003200000000012,893.9997000000001,193.00032,959.9995799999999,0 809.00064,907.99974,1014.0009600000001,972.9995399999999,0 
+/content/0316_parkinglot_ID_train/img/000000346.png 0.9993600000000002,898.99956,145.99968,956.99988,0 755.9990399999999,906.00066,953.99904,970.0003800000001,0 
+/content/0316_parkinglot_ID_train/img/000000347.png 1.0003199999999945,891.9995400000001,97.00031999999999,957.99942,0 703.99968,904.0005,894.99936,970.00038,0 
+/content/0316_parkinglot_ID_train/img/000000348.png 1.0003199999999979,899.9996400000001,49.00032,949.99932,0 654.0,910.9994399999999,850.9996800000001,969.99984,0 
+/content/0316_parkinglot_ID_train/img/000000349.png 602.00064,906.9996600000001,796.99968,973.9996199999999,0 
+/content/0316_parkinglot_ID_train/img/000000350.png 562.00032,910.9994399999999,750.0009600000001,970.99992,0 
+/content/0316_parkinglot_ID_train/img/000000351.png 522.00096,906.00012,718.0003200000001,966.0006,0 
+/content/0316_parkinglot_ID_train/img/000000352.png 494.99904,898.00002,686.9990399999999,966.0000600000001,0 
+/content/0316_parkinglot_ID_train/img/000000353.png 461.99999999999994,901.9998,658.99968,962.00028,0 
+/content/0316_parkinglot_ID_train/img/000000354.png 439.00032,903.00042,633.00096,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000355.png 423.99936,900.0001800000001,615.9993599999999,967.00014,0 
+/content/0316_parkinglot_ID_train/img/000000356.png 406.00032,894.99978,594.99936,969.0003,0 
+/content/0316_parkinglot_ID_train/img/000000357.png 400.99968,903.00042,588.0,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000358.png 396.00000000000006,893.9997,583.0003200000001,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000359.png 396.0,894.99978,576.0,959.9995799999999,0 
+/content/0316_parkinglot_ID_train/img/000000360.png 391.99967999999996,886.00014,580.00032,958.0005,0 
+/content/0316_parkinglot_ID_train/img/000000361.png 402.00096,872.99964,576.00096,953.9996399999999,0 
+/content/0316_parkinglot_ID_train/img/000000362.png 400.99967999999996,869.0003999999999,578.99904,943.99992,0 
+/content/0316_parkinglot_ID_train/img/000000363.png 411.99936,856.00044,591.99936,935.00028,0 0.9993600000000002,786.9997800000001,54.99936,827.99982,0 
+/content/0316_parkinglot_ID_train/img/000000364.png 0.9993600000000002,753.0003,81.0,820.00026,0 417.99935999999997,871.0000200000001,592.9996799999999,935.99982,0 
+/content/0316_parkinglot_ID_train/img/000000365.png 0.9993600000000069,764.99964,119.99904,818.99964,0 438.99936,859.99968,605.99904,940.99968,0 
+/content/0316_parkinglot_ID_train/img/000000366.png 22.000319999999995,753.99984,145.99967999999998,806.99976,0 451.99967999999996,859.99968,621.0,935.99928,0 
+/content/0316_parkinglot_ID_train/img/000000367.png 55.001279999999994,753.9998400000001,184.00032,803.99952,0 470.00064000000003,857.9995200000001,638.0006400000001,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000368.png 97.00031999999999,741.99996,217.00032,795.9999600000001,0 487.00032,860.00022,645.9993599999999,933.0006599999999,0 
+/content/0316_parkinglot_ID_train/img/000000369.png 136.99968,736.99956,259.00032,790.9995600000001,0 506.00064,853.99974,662.0006400000001,927.00018,0 
+/content/0316_parkinglot_ID_train/img/000000370.png 176.99903999999998,732.99978,291.99935999999997,777.00006,0 526.99968,853.99974,680.9990399999999,927.00018,0 
+/content/0316_parkinglot_ID_train/img/000000371.png 217.00031999999996,724.00014,327.00095999999996,770.0005800000001,0 1.9996800000000015,636.9996600000001,87.0,674.99946,0 548.99904,849.99996,692.9990399999999,927.99972,0 
+/content/0316_parkinglot_ID_train/img/000000372.png 54.999359999999996,628.00002,147.0,670.0001399999999,0 258.99936,714.99996,375.0,768.99996,0 568.0003200000001,845.0001000000001,720.9993599999999,919.00062,0 
+/content/0316_parkinglot_ID_train/img/000000373.png 109.99967999999998,624.9997799999999,195.0,660.99942,0 304.00128,714.99942,410.00064,759.9997799999999,0 599.00064,848.99934,737.00064,919.9996199999999,0 
+/content/0316_parkinglot_ID_train/img/000000374.png 163.00032,620.0004600000001,254.00063999999998,658.00026,0 345.99935999999997,712.00026,451.00032,758.0007000000002,0 621.0,845.0000999999999,754.0003199999999,916.00038,0 
+/content/0316_parkinglot_ID_train/img/000000375.png 215.99999999999997,617.00022,295.00032,651.9997800000001,0 383.00064000000003,713.0003399999999,485.00064000000003,747.9999,0 642.99936,848.0003399999999,775.99968,913.0001399999999,0 
+/content/0316_parkinglot_ID_train/img/000000376.png 272.00064000000003,612.9998999999999,346.99968,648.99954,0 424.99968,703.99962,520.99968,748.9999799999999,0 667.99968,849.00042,796.99872,910.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000377.png 328.99968,612.99936,405.99935999999997,643.99968,0 468.0,701.9994600000001,561.9993599999999,744.99966,0 687.00096,844.00002,822.0000000000001,916.00038,0 
+/content/0316_parkinglot_ID_train/img/000000378.png 717.00096,855.9999,849.00096,920.9997,0 509.00064000000003,699.9998400000001,599.0006400000001,747.99936,0 381.0,611.00028,449.99904,641.00052,0 
+/content/0316_parkinglot_ID_train/img/000000379.png 737.00064,852.9996600000001,868.00032,919.9996199999999,0 549.99936,703.0006199999999,638.99904,741.00042,0 429.0,611.00028,502.00032,641.00052,0 
+/content/0316_parkinglot_ID_train/img/000000380.png 478.99968000000007,602.99964,553.99872,636.00012,0 588.0,694.9999799999999,676.99968,741.0004200000001,0 763.99968,849.9994199999999,887.9990399999999,919.9996199999999,0 
+/content/0316_parkinglot_ID_train/img/000000381.png 533.00064,599.9994,601.9996799999999,630.9997200000001,0 628.99968,691.9997400000001,720.0,734.9999399999999,0 790.99968,845.00064,896.99904,920.00016,0 
+/content/0316_parkinglot_ID_train/img/000000382.png 581.00064,592.0003800000001,647.0006400000001,632.00034,0 669.99936,694.9999799999999,756.0000000000001,732.99978,0 814.00032,841.00032,906.00096,920.0001599999999,0 
+/content/0316_parkinglot_ID_train/img/000000383.png 627.00096,591.0002999999999,692.0006400000001,624.99978,0 705.0009600000001,689.9995799999999,792.0000000000001,731.9997,0 835.00032,855.9998999999999,912.0000000000001,923.99994,0 
+/content/0316_parkinglot_ID_train/img/000000384.png 675.9993599999999,591.99984,742.99968,624.00024,0 745.9996800000001,685.00026,831.0,732.0007800000001,0 862.99968,848.99988,915.9993599999999,924.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000385.png 726.0,593.9999999999999,788.00064,625.00032,0 790.99968,686.00034,867.99936,731.0006999999999,0 885.0,847.9998,927.0,926.99964,0 
+/content/0316_parkinglot_ID_train/img/000000386.png 770.99904,595.00008,832.99968,623.0001599999999,0 820.00032,686.9993400000001,905.0006399999999,731.9997,0 
+/content/0316_parkinglot_ID_train/img/000000387.png 812.99904,591.99984,879.9993600000001,624.00024,0 859.99968,686.99988,930.9993599999999,734.9993999999999,0 
+/content/0316_parkinglot_ID_train/img/000000388.png 863.99904,594.00054,924.99936,629.0001000000001,0 894.99936,690.99966,934.9987199999999,738.00018,0 
+/content/0316_parkinglot_ID_train/img/000000389.png 901.9996799999999,597.99978,948.99936,632.9993400000001,0 
+/content/0316_parkinglot_ID_train/img/000000401.png 1466.9990400000002,622.99962,1521.99936,664.99974,0 
+/content/0316_parkinglot_ID_train/img/000000402.png 1492.00032,632.0003399999999,1567.99968,665.99982,0 
+/content/0316_parkinglot_ID_train/img/000000403.png 1543.0003199999999,636.00012,1624.99968,666.0003600000001,0 1458.99936,748.0004399999999,1541.9990400000002,799.0002,0 
+/content/0316_parkinglot_ID_train/img/000000404.png 1604.0006400000002,639.9998999999999,1683.0009599999998,673.9993800000001,0 1479.99936,752.99976,1587.9993599999998,810.0,0 
+/content/0316_parkinglot_ID_train/img/000000405.png 1656.0,645.0003,1742.9990400000002,683.0001,0 1519.9996800000001,765.9997200000001,1631.00064,815.9993999999999,0 
+/content/0316_parkinglot_ID_train/img/000000406.png 1712.00064,653.99994,1801.00032,691.9997400000001,0 1561.9996800000001,776.99952,1678.99872,830.9995200000001,0 
+/content/0316_parkinglot_ID_train/img/000000407.png 1604.00064,791.99964,1726.00128,844.9995600000001,0 1769.9990400000002,670.99968,1861.9996800000001,702.0,0 
+/content/0316_parkinglot_ID_train/img/000000408.png 1829.00064,677.9997,1917.0,715.9995,0 1645.99968,799.0002,1774.00032,854.00028,0 
+/content/0316_parkinglot_ID_train/img/000000409.png 1692.0000000000002,813.00024,1828.99968,865.00008,0 1407.99936,1016.00028,1532.9990400000002,1071.00036,0 
+/content/0316_parkinglot_ID_train/img/000000410.png 1737.99936,825.0001199999999,1876.99968,878.00004,0 1420.00032,1028.00016,1529.00064,1077.99984,0 
+/content/0316_parkinglot_ID_train/img/000000411.png 1787.9999999999998,838.00008,1920.0,893.00016,0 1440.9993599999998,1041.99966,1545.0,1079.99946,0 77.00064000000002,583.0002000000001,191.00064,611.00028,0 
+/content/0316_parkinglot_ID_train/img/000000412.png 1835.00064,852.0001199999999,1920.00096,905.00004,0 135.0,582.0001199999999,241.99968,603.9997199999999,0 
+/content/0316_parkinglot_ID_train/img/000000413.png 196.00032,576.99972,295.99967999999996,599.9994,0 
+/content/0316_parkinglot_ID_train/img/000000414.png 256.00032,576.99972,300.00096,597.9992400000001,0 
+/content/0316_parkinglot_ID_train/img/000000426.png 1249.9996800000001,536.99976,1332.99936,561.9996,0 879.0,551.9993400000001,964.00032,570.99978,0 
+/content/0316_parkinglot_ID_train/img/000000427.png 925.0003200000001,550.00026,1009.00032,569.0006999999999,0 1301.9990400000002,548.0001,1386.99936,563.00022,0 
+/content/0316_parkinglot_ID_train/img/000000428.png 975.0,559.9999799999999,1060.0003199999999,572.99994,0 1358.00064,546.00048,1442.00064,570.00024,0 
+/content/0316_parkinglot_ID_train/img/000000429.png 1022.00064,563.0002199999999,1106.00064,578.0003399999999,0 1410.0,556.0002000000001,1496.00064,576.99972,0 
+/content/0316_parkinglot_ID_train/img/000000430.png 1066.9996800000001,565.0003800000001,1153.99872,581.00058,0 1460.00064,562.00068,1546.9996800000001,583.0002000000001,0 
+/content/0316_parkinglot_ID_train/img/000000431.png 1107.99936,566.99946,1198.99968,582.99966,0 1513.99968,565.0003800000001,1599.0,582.00066,0 
+/content/0316_parkinglot_ID_train/img/000000432.png 1162.00032,562.0001400000001,1247.00064,582.00066,0 1566.00096,568.99962,1654.00032,585.9999,0 
+/content/0316_parkinglot_ID_train/img/000000433.png 1204.9996800000001,565.99938,1288.99968,582.99966,0 1610.00064,569.0001599999999,1706.0006400000002,589.99968,0 
+/content/0316_parkinglot_ID_train/img/000000434.png 1250.00064,566.9994600000001,1334.00064,585.9999,0 1666.99968,578.0003399999999,1765.99872,596.0006999999999,0 
+/content/0316_parkinglot_ID_train/img/000000435.png 1291.9996800000001,565.99938,1379.9990400000002,584.9998199999999,0 1724.9990400000002,581.99958,1818.0,597.99978,0 
+/content/0316_parkinglot_ID_train/img/000000436.png 688.99968,549.00018,765.99936,562.0001400000001,0 1336.9996800000001,566.9994600000001,1430.00064,585.9999,0 1777.00032,576.99972,1868.00064,603.9997199999999,0 
+/content/0316_parkinglot_ID_train/img/000000437.png 730.9996800000001,541.99962,805.00032,559.9999799999999,0 1376.9990400000002,564.9998400000001,1470.0,587.9995200000001,0 1816.99968,582.0001199999999,1917.99936,603.9997199999999,0 
+/content/0316_parkinglot_ID_train/img/000000438.png 767.9999999999999,544.9998599999999,847.00032,561.00006,0 1416.99936,567.0,1511.9990400000002,589.99968,0 1873.99968,590.00076,1913.99904,611.0002800000001,0 
+/content/0316_parkinglot_ID_train/img/000000439.png 801.0,541.99962,881.00064,562.00014,0 1459.00032,573.00048,1550.00064,594.0,0 
+/content/0316_parkinglot_ID_train/img/000000440.png 828.99936,544.9998599999999,909.0,561.00006,0 1484.99904,576.99972,1582.99968,599.9994,0 
+/content/0316_parkinglot_ID_train/img/000000441.png 859.99968,540.0,930.9993599999999,561.9996,0 1513.0003199999999,581.00004,1614.0000000000002,601.99956,0 
+/content/0316_parkinglot_ID_train/img/000000442.png 886.9996799999999,549.00018,973.9987199999998,567.00054,0 1546.0012800000002,586.00044,1645.0003199999999,606.99996,0 
+/content/0316_parkinglot_ID_train/img/000000443.png 916.99968,547.9995600000001,998.99904,572.9994,0 1575.9993599999998,591.99984,1678.99968,612.99936,0 
+/content/0316_parkinglot_ID_train/img/000000444.png 947.0006400000001,549.99972,1018.0003200000001,570.99924,0 1606.00032,594.0,1708.00032,621.0,0 
+/content/0316_parkinglot_ID_train/img/000000445.png 1645.0003199999999,598.00032,1750.00128,628.0005600000001,0 963.9993600000001,549.99972,1045.0003199999999,574.99956,0 
+/content/0316_parkinglot_ID_train/img/000000446.png 1002.0009599999998,557.99982,1071.0,575.0001000000001,0 1679.00064,608.00004,1783.0012800000002,631.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000447.png 1030.00128,552.9999600000001,1105.0003199999999,577.9998,0 1715.9990400000002,603.0001799999999,1824.99936,639.9998999999999,0 
+/content/0316_parkinglot_ID_train/img/000000448.png 1057.9996800000001,561.00006,1140.99936,577.00026,0 1750.99968,614.99952,1863.9993599999998,643.99968,0 
+/content/0316_parkinglot_ID_train/img/000000449.png 1093.00032,562.99968,1174.00128,584.99928,0 1798.99968,619.99992,1902.0000000000002,650.00016,0 
+/content/0316_parkinglot_ID_train/img/000000450.png 1129.9996800000001,564.9998400000001,1210.0003199999999,589.99968,0 1838.9990400000002,626.9993999999999,1920.0,659.99988,0 
+/content/0316_parkinglot_ID_train/img/000000451.png 1168.0003199999999,564.9998400000001,1241.0006400000002,591.99984,0 1884.99936,636.00012,1919.9990400000002,656.99964,0 
+/content/0316_parkinglot_ID_train/img/000000452.png 1201.99872,570.0002400000001,1282.99968,595.00008,0 
+/content/0316_parkinglot_ID_train/img/000000453.png 1238.00064,580.9995,1322.00064,599.9999399999999,0 
+/content/0316_parkinglot_ID_train/img/000000454.png 1270.00032,581.0000400000001,1362.00096,606.99996,0 
+/content/0316_parkinglot_ID_train/img/000000455.png 1312.00032,577.9997999999999,1397.00064,608.00004,0 
+/content/0316_parkinglot_ID_train/img/000000456.png 1352.0006400000002,581.00004,1431.00096,610.0002000000001,0 
+/content/0316_parkinglot_ID_train/img/000000457.png 1380.0,582.00012,1466.00064,606.99996,0 
+/content/0316_parkinglot_ID_train/img/000000458.png 1418.00064,585.00036,1504.9996800000001,610.0002,0 
+/content/0316_parkinglot_ID_train/img/000000459.png 1459.00032,591.0003,1543.0003199999999,610.0007400000001,0 
+/content/0316_parkinglot_ID_train/img/000000460.png 1488.0,587.9995200000001,1579.00032,614.99952,0 
+/content/0316_parkinglot_ID_train/img/000000461.png 1513.0003199999999,591.99984,1606.00128,623.00016,0 
+/content/0316_parkinglot_ID_train/img/000000462.png 1539.0,595.0000799999999,1629.0,625.00032,0 
+/content/0316_parkinglot_ID_train/img/000000463.png 1560.0,599.0004000000001,1658.00064,625.00032,0 
+/content/0316_parkinglot_ID_train/img/000000464.png 1575.00096,599.0004000000001,1674.0,625.00032,0 
+/content/0316_parkinglot_ID_train/img/000000465.png 1588.99968,603.99972,1687.00032,630.99972,0 
+/content/0316_parkinglot_ID_train/img/000000466.png 1587.99936,608.00004,1690.9996800000001,638.0002800000001,0 
+/content/0316_parkinglot_ID_train/img/000000467.png 1592.9999999999998,615.9996000000001,1692.99936,641.99952,0 
+/content/0316_parkinglot_ID_train/img/000000468.png 1587.99936,612.9998999999999,1690.9996800000001,647.99946,0 
+/content/0316_parkinglot_ID_train/img/000000469.png 1580.99904,621.0000000000001,1678.99968,645.9998400000001,0 
+/content/0316_parkinglot_ID_train/img/000000470.png 1566.00096,619.9999200000001,1666.00032,648.0,0 
+/content/0316_parkinglot_ID_train/img/000000471.png 1546.00032,615.9995999999999,1641.0,648.0,0 
+/content/0316_parkinglot_ID_train/img/000000472.png 1520.9999999999998,601.99956,1618.0003199999999,635.00004,0 
+/content/0316_parkinglot_ID_train/img/000000473.png 1493.0006399999997,601.99956,1593.0,635.00004,0 
+/content/0316_parkinglot_ID_train/img/000000474.png 1453.99968,605.99988,1553.99904,635.00004,0 
+/content/0316_parkinglot_ID_train/img/000000475.png 1417.00032,598.9993199999999,1508.00064,630.99972,0 
+/content/0316_parkinglot_ID_train/img/000000476.png 1372.00032,593.9999999999999,1462.00032,625.00032,0 
+/content/0316_parkinglot_ID_train/img/000000477.png 1320.0009599999998,595.00008,1408.0003199999999,621.0,0 
+/content/0316_parkinglot_ID_train/img/000000478.png 1256.00064,595.0000799999999,1352.00064,625.00032,0 
+/content/0316_parkinglot_ID_train/img/000000479.png 1195.0003199999999,585.9993599999999,1291.00032,615.9996000000001,0 
+/content/0316_parkinglot_ID_train/img/000000480.png 1135.0003199999999,586.0004400000001,1226.00064,614.00052,0 1853.99904,728.00046,1919.9990400000002,769.0005,0 
+/content/0316_parkinglot_ID_train/img/000000481.png 1063.0003199999999,581.00004,1152.0,612.00036,0 1765.99968,718.99974,1918.0003199999999,780.9993,0 
+/content/0316_parkinglot_ID_train/img/000000482.png 995.00064,583.0002000000001,1083.0,610.0002,0 1670.99904,719.0002799999999,1826.9990400000002,770.00004,0 
+/content/0316_parkinglot_ID_train/img/000000483.png 914.00064,577.00026,1008.0,610.9997400000001,0 1572.0009599999998,711.99972,1727.00064,770.00004,0 
+/content/0316_parkinglot_ID_train/img/000000484.png 843.99936,582.0001199999999,932.99904,611.0002800000001,0 1480.99968,707.0003999999999,1627.0003199999999,761.0004,0 
+/content/0316_parkinglot_ID_train/img/000000485.png 766.00032,588.0006000000001,856.00032,613.00044,0 1387.00032,703.00008,1524.0,758.00016,0 
+/content/0316_parkinglot_ID_train/img/000000486.png 687.0009600000001,586.9994399999999,771.00096,618.99984,0 1289.0006400000002,705.99978,1425.0,748.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000487.png 1184.00064,696.0000600000001,1325.9999999999998,740.00034,0 1825.9996800000001,817.00056,1906.00032,870.00048,0 
+/content/0316_parkinglot_ID_train/img/000000488.png 1092.99936,696.0006000000001,1225.9996800000001,744.0001199999999,0 1702.0003199999999,810.9995399999999,1895.00064,880.99974,0 
+/content/0316_parkinglot_ID_train/img/000000489.png 1000.0012799999998,698.0002199999999,1130.00064,745.0007400000001,0 1585.00032,801.9999,1767.00096,865.9996199999999,0 
+/content/0316_parkinglot_ID_train/img/000000490.png 904.00032,693.9999,1030.00032,741.0004200000001,0 1471.00032,795.0004200000001,1646.00064,855.9999,0 
+/content/0316_parkinglot_ID_train/img/000000491.png 808.99968,694.9999799999999,940.99968,736.00002,0 1366.00032,798.0001199999999,1530.00096,849.99996,0 
+/content/0316_parkinglot_ID_train/img/000000492.png 705.00096,691.9997400000001,842.00064,731.9997000000001,0 1254.00096,780.9998400000001,1421.00064,837.0,0 
+/content/0316_parkinglot_ID_train/img/000000493.png 610.00032,691.0002000000001,745.9996800000001,724.0006800000001,0 1144.99872,779.0002199999999,1308.99936,825.00066,0 1879.99968,890.99946,1919.9990400000002,936.9999000000001,0 
+/content/0316_parkinglot_ID_train/img/000000494.png 518.0006400000001,691.99974,652.00128,728.99946,0 1048.99968,773.00028,1212.0000000000002,825.00012,0 1754.0006400000002,882.00036,1920.0,939.0006000000001,0 
+/content/0316_parkinglot_ID_train/img/000000495.png 423.99936,690.99966,555.9993599999999,737.0001000000001,0 949.0003199999999,775.00044,1107.99936,825.0001199999999,0 1631.00064,867.00024,1819.9996800000001,941.99976,0 
+/content/0316_parkinglot_ID_train/img/000000496.png 329.00064000000003,690.9996600000001,462.00095999999996,736.00002,0 851.00064,774.0003600000001,1008.00096,822.99996,0 1512.99936,862.0003800000001,1701.0,922.99986,0 
+/content/0316_parkinglot_ID_train/img/000000497.png 233.99904,694.9999799999999,371.99904000000004,734.9999399999999,0 759.0009600000001,770.99958,913.00032,812.9997,0 1408.99968,854.00028,1584.0,913.00068,0 
+/content/0316_parkinglot_ID_train/img/000000498.png 142.00032,694.9999799999999,280.00032,732.99978,0 666.0000000000001,763.0005600000001,819.99936,811.00008,0 1309.9996800000001,840.99978,1481.00064,905.9995799999999,0 
+/content/0316_parkinglot_ID_train/img/000000499.png 54.00000000000001,703.0006199999999,193.00032,737.0001000000001,0 576.99936,766.00026,738.99936,811.0006199999999,0 1207.99968,837.0,1379.0006400000002,894.00024,0 
+/content/0316_parkinglot_ID_train/img/000000500.png 1.9996800000000015,703.99962,108.99936,743.99958,0 490.99967999999996,766.0002599999999,644.99904,812.0007,0 1116.9993600000003,837.0,1283.99904,894.00024,0 
+/content/0316_parkinglot_ID_train/img/000000501.png 409.00032000000004,766.0002599999999,567.99936,812.0007,0 1029.0000000000002,838.00008,1195.99968,889.9999200000001,0 
+/content/0316_parkinglot_ID_train/img/000000502.png 326.00064,769.9994999999999,487.00032,817.0000200000001,0 942.0000000000001,832.99968,1112.00064,884.9995200000001,0 
+/content/0316_parkinglot_ID_train/img/000000503.png 232.99968,769.9995,400.99967999999996,814.9998599999999,0 856.00032,824.0000399999999,1020.00096,878.00004,0 
+/content/0316_parkinglot_ID_train/img/000000504.png 145.99967999999998,770.99958,312.99936,811.99962,0 765.99936,820.9998,938.99904,872.9996400000001,0 
+/content/0316_parkinglot_ID_train/img/000000505.png 57.99935999999998,765.9997200000001,230.99904,814.99932,0 679.0012800000001,824.00004,851.00064,872.99964,0 
+/content/0316_parkinglot_ID_train/img/000000506.png 1.0012800000000022,771.00012,154.00032,819.9997199999999,0 596.99904,815.0003999999999,762.0,866.00016,0 
+/content/0316_parkinglot_ID_train/img/000000507.png 1.0003200000000012,781.00038,58.99968,823.0004999999999,0 510.0,821.00034,685.0003199999999,866.0006999999999,0 1842.00096,912.9996,1920.00096,965.9995200000001,0 
+/content/0316_parkinglot_ID_train/img/000000508.png 428.99904000000004,819.99972,603.9993600000001,869.9993999999999,0 1752.0000000000002,899.0001000000001,1920.0,964.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000509.png 346.99968,819.00018,512.99904,865.0006200000001,0 1656.0,888.0002999999999,1867.00032,956.00034,0 
+/content/0316_parkinglot_ID_train/img/000000510.png 259.99872,815.9999399999999,441.99935999999997,862.0003800000001,0 1560.0,878.99958,1766.00064,944.9994599999999,0 
+/content/0316_parkinglot_ID_train/img/000000511.png 184.00032,824.00004,363.0,872.99964,0 1479.0000000000002,878.00004,1679.00064,937.0004399999999,0 
+/content/0316_parkinglot_ID_train/img/000000512.png 105.00096000000002,831.00006,288.0,877.0005000000001,0 1400.9999999999998,881.0002800000001,1587.0,940.00068,0 
+/content/0316_parkinglot_ID_train/img/000000513.png 25.00032000000001,840.99978,210.0,881.99982,0 1318.0003199999999,882.00036,1509.0000000000002,936.0003600000001,0 
+/content/0316_parkinglot_ID_train/img/000000514.png 1.0003200000000012,835.99992,142.99967999999998,886.99968,0 1247.00064,879.0001199999999,1438.00032,938.0005199999999,0 
+/content/0316_parkinglot_ID_train/img/000000515.png 0.9993600000000002,851.99958,71.99904,890.99946,0 1175.99904,879.0001199999999,1361.9990400000002,936.00036,0 
+/content/0316_parkinglot_ID_train/img/000000516.png 1105.99872,879.0001199999999,1287.99936,936.00036,0 
+/content/0316_parkinglot_ID_train/img/000000517.png 1048.99968,882.0003599999999,1224.0,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000518.png 986.99904,882.0003599999999,1164.0,933.00012,0 1816.99968,882.9999,1915.99872,944.99946,0 
+/content/0316_parkinglot_ID_train/img/000000519.png 925.99872,879.0001199999999,1107.99936,929.9998800000001,0 1759.0003199999999,882.9999,1920.0,944.99946,0 
+/content/0316_parkinglot_ID_train/img/000000520.png 870.0,882.00036,1050.0,932.0000399999999,0 1695.99936,884.99952,1902.0,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000521.png 813.00096,875.9998800000001,993.00096,929.9998800000001,0 1641.9993600000003,884.99952,1840.99968,940.99968,0 
+/content/0316_parkinglot_ID_train/img/000000522.png 754.00032,872.99964,935.00064,927.99972,0 1583.00064,881.00028,1783.00128,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000523.png 706.00032,873.9997199999999,885.0,927.99972,0 1526.99904,875.00034,1720.99968,935.99982,0 
+/content/0316_parkinglot_ID_train/img/000000524.png 644.9990399999999,878.00004,826.9996799999999,932.00004,0 1475.9999999999998,881.00028,1668.0,932.00004,0 
+/content/0316_parkinglot_ID_train/img/000000525.png 592.9996799999999,873.9997199999999,770.00064,928.9997999999999,0 1417.99968,878.00004,1606.00032,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000526.png 533.9999999999999,874.9998,721.00032,923.9993999999999,0 1367.00064,879.00012,1551.0,928.9997999999999,0 
+/content/0316_parkinglot_ID_train/img/000000527.png 481.0003200000001,874.0002599999999,663.99936,921.00078,0 1314.0000000000002,874.9998,1489.00032,924.99948,0 
+/content/0316_parkinglot_ID_train/img/000000528.png 420.99935999999997,867.00024,609.0,925.00056,0 1251.00096,869.9994,1434.0000000000002,927.99972,0 
+/content/0316_parkinglot_ID_train/img/000000529.png 363.99936,870.00048,555.9993599999999,919.0000799999999,0 1196.9990400000002,872.99964,1378.99968,924.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000530.png 307.99967999999996,871.0005600000001,496.99871999999993,921.00024,0 1137.0009599999998,876.99996,1322.00064,924.99948,0 
+/content/0316_parkinglot_ID_train/img/000000531.png 251.99999999999994,873.0001799999999,446.00064,919.00062,0 1084.00032,874.9998,1258.0003199999999,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000534.png 902.00064,885.0006000000001,1080.0,935.00028,0 68.00063999999999,882.0003599999999,272.00064,933.00012,0 1739.00064,882.00036,1920.00096,940.00068,0 
+/content/0316_parkinglot_ID_train/img/000000537.png 4.000320000000004,874.9997999999999,91.99968,926.99964,0 716.0006400000001,874.9998,901.00032,933.00012,0 1555.99872,886.0006800000001,1737.99936,935.00028,0 
+/content/0316_parkinglot_ID_train/img/000000538.png 658.99872,879.00012,834.99936,928.9997999999999,0 1488.0,879.0001199999999,1670.00064,936.00036,0 
+/content/0316_parkinglot_ID_train/img/000000542.png 404.99904,872.99964,586.9996799999999,923.9994,0 1234.9996800000001,878.00004,1412.00064,928.9998,0 
+/content/0316_parkinglot_ID_train/img/000000547.png 76.00032,885.0000599999998,271.99968,932.00058,0 908.9999999999999,894.99978,1087.99968,937.9999799999999,0 
+/content/0316_parkinglot_ID_train/img/000000554.png 438.00000000000006,876.99996,630.0,930.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000558.png 162.99936000000002,878.00004,370.00032,928.9998,0 1707.99936,895.00032,1916.9990400000002,952.00056,0 
+/content/0316_parkinglot_ID_train/img/000000560.png 25.00032000000001,883.00044,243.00096000000002,935.0002800000001,0 1572.00096,894.00024,1775.00064,950.0004,0 
+/content/0316_parkinglot_ID_train/img/000000561.png 1.0003200000000012,885.0006000000001,183.00096000000002,933.00012,0 1508.00064,901.9998,1705.0003199999999,949.99932,0 
+/content/0316_parkinglot_ID_train/img/000000562.png 10.000320000000002,886.00014,114.00095999999999,931.0004999999999,0 1434.0000000000002,897.9994800000001,1633.0003199999999,953.99964,0 
+/content/0316_parkinglot_ID_train/img/000000563.png 1362.99936,902.99988,1562.9999999999998,956.99988,0 
+/content/0316_parkinglot_ID_train/img/000000566.png 1156.00032,894.00024,1344.9993600000003,949.00032,0 
+/content/0316_parkinglot_ID_train/img/000000568.png 1018.00032,896.0004,1201.9996800000001,950.0004,0 1871.0006400000002,903.99996,1920.00096,959.00004,0 
+/content/0316_parkinglot_ID_train/img/000000569.png 949.9987199999998,895.00032,1126.99968,948.0002400000001,0 1794.99936,901.9997999999999,1899.0000000000002,956.99988,0 
+/content/0316_parkinglot_ID_train/img/000000571.png 808.99872,894.00024,984.99936,941.9997599999999,0 1652.0006400000002,901.9997999999999,1851.00096,952.9995600000001,0 
+/content/0316_parkinglot_ID_train/img/000000572.png 730.0003199999999,896.0004000000001,913.99968,946.00008,0 1580.9999999999998,906.00012,1774.00032,953.9996399999999,0 
+/content/0316_parkinglot_ID_train/img/000000573.png 657.99936,895.00032,852.0,948.0002400000001,0 1506.0,899.99964,1700.99904,955.9998,0 
+/content/0316_parkinglot_ID_train/img/000000576.png 449.99904,894.9997799999999,637.99968,942.0003,0 1291.99968,894.00024,1485.0,952.00056,0 
+/content/0316_parkinglot_ID_train/img/000000578.png 311.99999999999994,898.00002,506.00064,945.0005400000001,0 1159.9996800000001,896.0004,1348.9987199999998,953.00064,0 
+/content/0316_parkinglot_ID_train/img/000000581.png 97.00128000000001,907.99974,305.00064000000003,953.0000999999999,0 945.0,906.00012,1131.0,956.9998800000001,0 
+/content/0316_parkinglot_ID_train/img/000000582.png 27.00000000000001,907.99974,237.0,949.9998599999999,0 880.0003199999999,906.00012,1059.0,953.9996399999999,0 1825.99968,912.0006,1915.99968,962.0002799999999,0 
+/content/0316_parkinglot_ID_train/img/000000583.png 1.0003200000000012,898.99956,171.00096000000002,951.9994800000001,0 808.99968,899.00064,991.00032,950.0004,0 1759.99968,906.0001200000002,1919.9990400000002,955.9998,0 
+/content/0316_parkinglot_ID_train/img/000000584.png 0.9993600000000002,902.9993400000001,95.99904000000001,947.9997,0 732.99936,901.99926,923.99904,947.9997000000001,0 1685.00064,903.9999599999999,1880.9999999999998,956.99988,0 
+/content/0316_parkinglot_ID_train/img/000000586.png 592.9996799999999,894.0002399999998,780.0,945.0,0 1543.0003199999999,902.9998800000001,1732.9996800000001,952.99956,0 
+/content/0316_parkinglot_ID_train/img/000000588.png 451.99968000000007,898.00002,642.99936,941.0002199999999,0 1393.00032,899.9996400000001,1587.99936,949.99932,0 
+/content/0316_parkinglot_ID_train/img/000000590.png 297.00095999999996,892.00008,506.00064,939.9996,0 1248.9993599999998,896.0004000000001,1441.9996800000001,943.99992,0 
+/content/0316_parkinglot_ID_train/img/000000591.png 233.99903999999998,888.0003,438.99936,933.0006599999999,0 1176.0,894.00024,1370.99904,941.9997599999999,0 
+/content/0316_parkinglot_ID_train/img/000000594.png 19.999680000000005,895.99986,227.00064000000003,940.0001399999999,0 960.0,902.9993400000001,1152.0000000000002,947.9997,0 1792.00032,898.0005600000001,1877.00064,946.00008,0 
+/content/0316_parkinglot_ID_train/img/000000595.png 1.0012800000000022,893.9997,154.00032,941.00022,0 888.0009600000001,892.00008,1077.0000000000002,948.0002400000001,0 1715.99904,900.00072,1903.99968,949.0003199999999,0 
+/content/0316_parkinglot_ID_train/img/000000596.png 1.0003200000000012,895.99986,92.00064,941.0002199999999,0 813.0,894.00024,1001.99904,949.00032,0 1638.99936,896.0004000000001,1841.9990400000002,945.0,0 
+/content/0316_parkinglot_ID_train/img/000000597.png 741.0,900.0001800000001,929.9990399999999,942.0003,0 1567.9996800000001,899.0001,1763.99904,945.0005400000001,0 
+/content/0316_parkinglot_ID_train/img/000000598.png 665.99904,892.0000799999999,858.99936,943.99992,0 1495.0003199999999,891.0,1687.00032,945.0,0 
+/content/0316_parkinglot_ID_train/img/000000599.png 592.9996799999999,892.00008,787.99872,941.9997599999999,0 1417.0003199999999,898.0000200000001,1602.0,942.0003,0 
+/content/0316_parkinglot_ID_train/img/000000603.png 305.00064000000003,881.00028,501.0,933.00012,0 1128.99936,881.0002800000001,1305.0,937.00044,0 
+/content/0316_parkinglot_ID_train/img/000000606.png 93.0,883.00044,293.00064000000003,933.0001199999999,0 900.0,883.00044,1084.9996800000001,933.0001199999999,0 
+/content/0316_parkinglot_ID_train/img/000000608.png 0.9993600000000002,882.99936,155.99904,941.9997599999999,0 770.00064,889.99992,945.00096,943.99992,0 
+/content/0316_parkinglot_ID_train/img/000000610.png 625.99968,892.00008,797.00064,939.9996,0 
+/content/0316_parkinglot_ID_train/img/000000613.png 409.00032,881.00028,591.9993599999999,936.00036,0 1818.0009599999998,895.00032,1913.00064,948.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000615.png 267.99936,889.9999200000001,454.99968,937.99944,0 1669.9996800000001,894.00024,1901.00064,954.00072,0 
+/content/0316_parkinglot_ID_train/img/000000617.png 125.00064000000002,894.9997799999999,306.00096,928.99926,0 1529.9990400000002,892.0000799999999,1741.9996800000001,943.99992,0 
+/content/0316_parkinglot_ID_train/img/000000618.png 47.000640000000004,891.99954,231.0,931.9995,0 1462.9996800000001,889.99992,1657.99872,940.9996800000001,0 
+/content/0316_parkinglot_ID_train/img/000000621.png 1241.9990400000002,892.0000799999999,1441.99968,945.0,0 
+/content/0316_parkinglot_ID_train/img/000000624.png 1030.0003199999999,894.00024,1221.0,948.0002400000001,0 
+/content/0316_parkinglot_ID_train/img/000000626.png 888.9993599999999,896.0004,1077.0,948.0002400000001,0 1780.00032,902.9998800000001,1920.00096,952.99956,0 
+/content/0316_parkinglot_ID_train/img/000000628.png 749.00064,895.00032,937.00128,950.0004,0 1629.00096,899.0001,1843.00032,959.9995799999999,0 
+/content/0316_parkinglot_ID_train/img/000000630.png 597.0,898.00056,792.99936,949.00032,0 1482.99936,903.99996,1699.9996800000001,960.00012,0 
+/content/0316_parkinglot_ID_train/img/000000632.png 459.99936,892.0000799999999,663.99936,943.99992,0 1345.9996800000001,896.0004,1546.00032,950.0004,0 
+/content/0316_parkinglot_ID_train/img/000000634.png 325.99872,895.00032,519.99936,946.0000800000001,0 1209.0000000000002,901.9998,1411.9996800000001,951.99948,0 
+/content/0316_parkinglot_ID_train/img/000000636.png 195.0,898.00056,395.00064000000003,950.0004,0 1074.00096,898.99956,1270.0003199999999,952.9995600000001,0 
+/content/0316_parkinglot_ID_train/img/000000638.png 54.999359999999996,898.0005600000001,262.00032000000004,946.00008,0 930.0009600000001,897.9994800000001,1121.0006400000002,952.9995600000001,0 1809.0009599999998,907.0002,1910.00064,957.9999600000001,0 
+/content/0316_parkinglot_ID_train/img/000000639.png 1.0003200000000012,898.0005600000001,195.99936000000002,948.00024,0 863.00064,899.0006400000001,1059.0,949.0003199999999,0 1739.00064,903.9999599999999,1920.00096,955.9998,0 
+/content/0316_parkinglot_ID_train/img/000000640.png 0.9993600000000002,892.0000799999999,126.99936,943.99992,0 802.00032,898.00056,993.0,949.00032,0 1680.0,906.00012,1872.0000000000002,953.9996399999999,0 
+/content/0316_parkinglot_ID_train/img/000000643.png 602.0006400000001,902.99988,796.0012800000001,953.99964,0 1468.0003199999999,911.00052,1659.0000000000002,961.0002,0 
+/content/0316_parkinglot_ID_train/img/000000645.png 470.99904000000004,898.00056,662.99904,949.00032,0 1331.00064,906.99966,1522.00032,954.00018,0 
+/content/0316_parkinglot_ID_train/img/000000648.png 270.99935999999997,894.0002399999998,473.99904,945.0,0 1129.99968,899.99964,1320.99936,951.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000650.png 138.99936,896.0004000000001,346.99872000000005,945.0,0 1000.99968,903.99996,1188.0,962.00028,0 
+/content/0316_parkinglot_ID_train/img/000000652.png 17.00063999999999,895.00032,222.00096,946.0000800000001,0 874.00032,898.99956,1055.00064,951.9994800000001,0 
+/content/0316_parkinglot_ID_train/img/000000654.png 1.0003200000000012,898.99956,106.00128000000001,951.9994800000001,0 750.0,898.99956,932.9990399999999,952.9995600000001,0 
+/content/0316_parkinglot_ID_train/img/000000656.png 646.9987199999999,899.99964,834.99936,956.99988,0 
+/content/0316_parkinglot_ID_train/img/000000660.png 492.9993599999999,898.99956,678.99936,955.9998,0 
+/content/0316_parkinglot_ID_train/img/000000664.png 391.99968000000007,903.99996,585.0,957.9999600000001,0 
